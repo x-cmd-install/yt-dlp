@@ -1,0 +1,60 @@
+about:
+  description: A feature-rich command-line audio/video downloader
+  license: Unlicense
+  homepage: https://discord.gg/H5MNcFW63r
+  head: 8377aa9
+  archived: false
+  latestVersion: 2026.08.19
+  collectedAt: 2026-08-29T06:58:00Z
+timeline:
+  created: 2020-10-26
+  lastCommit: 2026-08-27
+  lastRelease: 2026-08-19
+popularity:
+  star: 187624
+  watcher: 928
+  fork: 16216
+  release: 136
+  contributor: 1533
+  pullRequest: 1704
+  issue: 11984
+language:
+  Python: 10147056
+  Makefile: 10330
+  Shell: 2769
+  Dockerfile: 287
+  Batchfile: 47
+totalLine: 10160489
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 1
+    mergedPR: 37
+    openPR: 18
+    closedIssue: 113
+    openIssue: 42
+    commit: 53
+  last90d:
+    since: 2026-05-31
+    release: 3
+    mergedPR: 115
+    openPR: 81
+    closedIssue: 292
+    openIssue: 130
+    commit: 178
+  last180d:
+    since: 2026-03-02
+    release: 6
+    mergedPR: 190
+    openPR: 159
+    closedIssue: 633
+    openIssue: 260
+    commit: 244
+  last360d:
+    since: 2025-09-03
+    release: 17
+    mergedPR: 478
+    openPR: 278
+    closedIssue: 1660
+    openIssue: 513
+    commit: 596
