@@ -1,60 +1,62 @@
 about:
-  description: A feature-rich command-line audio/video downloader
+  description:
+  |
+    A feature-rich command-line audio/video downloader
   license: Unlicense
   homepage: https://discord.gg/H5MNcFW63r
   head: bbc809a
   archived: false
   latestVersion: 2026.08.19
-  collectedAt: 2026-09-03T04:13:58Z
+  collectedAt: 2026-09-03T22:19:59Z
 timeline:
   created: 2020-10-26
   lastCommit: 2026-08-30
   lastRelease: 2026-08-19
 popularity:
-  star: 188593
-  watcher: 938
-  fork: 16320
+  star: 188736
+  watcher: 940
+  fork: 16336
   release: 136
   contributor: 1534
-  pullRequest: 1710
-  issue: 12018
+  pullRequest: 1711
+  issue: 12022
 language:
   Python: 10153689
   Makefile: 10330
   Shell: 2769
   Dockerfile: 287
   Batchfile: 47
-totalLine: 10167122
+totalBytes: 10167122
 recent:
   last30d:
     since: 2026-08-04
     release: 1
     mergedPR: 32
-    openPR: 24
+    openPR: 25
     closedIssue: 115
-    openIssue: 57
+    openIssue: 61
     commit: 56
   last90d:
     since: 2026-06-05
     release: 3
     mergedPR: 115
-    openPR: 83
+    openPR: 84
     closedIssue: 293
-    openIssue: 142
+    openIssue: 146
     commit: 180
   last180d:
     since: 2026-03-07
     release: 5
     mergedPR: 193
-    openPR: 156
+    openPR: 157
     closedIssue: 623
-    openIssue: 274
+    openIssue: 278
     commit: 247
   last360d:
     since: 2025-09-08
     release: 16
     mergedPR: 475
-    openPR: 278
+    openPR: 279
     closedIssue: 1656
-    openIssue: 527
+    openIssue: 531
     commit: 582
