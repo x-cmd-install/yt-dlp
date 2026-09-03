@@ -2,9 +2,6 @@ name: card
 
 on:
   schedule:
-    # The minute offset is substituted per repo by
-    # x-cmd-install-stat/.x-cmd/deploy-workflow.sh so 2500+ repos
-    # spread across the 00:00-00:59 UTC window.
     - cron: "18 0 * * *"
   workflow_dispatch:
 
@@ -22,7 +19,7 @@ jobs:
       - uses: actions/checkout@v5
 
       - name: Collect card
-        uses: x-cmd-install/x-cmd-install-action@v0.1.2
+        uses: x-cmd-install/x-cmd-install-action@main
         with:
           owner-repo: yt-dlp/yt-dlp
           stages: 'card'
