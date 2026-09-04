@@ -7,13 +7,13 @@ about:
   head: bbc809a
   archived: false
   latestVersion: 2026.08.19
-  collectedAt: 2026-09-04T20:17:11Z
+  collectedAt: 2026-09-04T20:25:31Z
 timeline:
   created: 2020-10-26
   lastCommit: 2026-08-30
   lastRelease: 2026-08-19
 popularity:
-  star: 188936
+  star: 188937
   watcher: 940
   fork: 16353
   release: 136
@@ -85,7 +85,7 @@ total:
   commit: 23997
 ---
 path: /home/runner/.x-repo/github.com/yt-dlp/yt-dlp
-collectedAt: 2026-09-04T20:17:18Z
+collectedAt: 2026-09-04T20:25:36Z
 loc:
   Python:
     code: 217217
