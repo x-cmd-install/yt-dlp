@@ -5,19 +5,19 @@ about:
   head: bbc809a
   archived: false
   latestVersion: "2026.08.19"
-  collectedAt: 2026-09-07T04:20:04Z
+  collectedAt: 2026-09-07T20:06:34Z
 timeline:
   created: 2020-10-26
   lastCommit: 2026-08-30
   lastRelease: 2026-08-19
 popularity:
-  star: 189481
-  watcher: 942
-  fork: 16440
+  star: 189636
+  watcher: 941
+  fork: 16460
   release: 136
   contributor: 1534
-  pullRequest: 5156
-  issue: 12040
+  pullRequest: 5157
+  issue: 12043
 language:
   Python: 10153689
   Makefile: 10330
@@ -31,59 +31,59 @@ recent:
     release: 1
     mergedPR: 30
     openPR: 30
-    closedIssue: 107
-    openIssue: 64
+    closedIssue: 109
+    openIssue: 65
     commit: 56
   last60d:
     since: 2026-07-09
     release: 1
     mergedPR: 52
     openPR: 57
-    closedIssue: 188
-    openIssue: 113
+    closedIssue: 190
+    openIssue: 114
     commit: 66
   last90d:
     since: 2026-06-09
     release: 3
     mergedPR: 110
     openPR: 89
-    closedIssue: 295
-    openIssue: 146
+    closedIssue: 297
+    openIssue: 147
     commit: 142
   last180d:
     since: 2026-03-11
     release: 5
     mergedPR: 189
     openPR: 163
-    closedIssue: 610
-    openIssue: 274
+    closedIssue: 612
+    openIssue: 275
     commit: 235
   last360d:
     since: 2025-09-12
     release: 16
     mergedPR: 466
     openPR: 287
-    closedIssue: 1653
-    openIssue: 528
+    closedIssue: 1655
+    openIssue: 529
     commit: 561
   last720d:
     since: 2024-09-17
     release: 45
     mergedPR: 1154
     openPR: 457
-    closedIssue: 3432
-    openIssue: 921
+    closedIssue: 3434
+    openIssue: 922
     commit: 1276
 total:
   release: 136
   mergedPR: 3435
   openPR: 630
-  closedIssue: 10037
-  openIssue: 2003
+  closedIssue: 10039
+  openIssue: 2004
   commit: 23997
 ---
 path: /home/runner/.x-repo/github.com/yt-dlp/yt-dlp
-collectedAt: 2026-09-07T04:20:16Z
+collectedAt: 2026-09-07T20:06:46Z
 loc:
   Python:
     code: 217217
@@ -289,7 +289,7 @@ checks:
       - 'Info: all commits (29) are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:20:16+00:00
+  collectedAt: 2026-09-07T20:06:48+00:00
   platform:
     darwin/arm64:
       name:  yt-dlp_macos.zip
