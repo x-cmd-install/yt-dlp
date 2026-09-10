@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 190,185 · **Forks**: 16,501 · **Open issues**: 12,058 · **Contributors**: 1,533
+- **Stars**: 190,213 · **Forks**: 16,502 · **Open issues**: 12,059 · **Contributors**: 1,533
 
 ## Totals (cumulative)
 
-- **Releases**: 136 · **Merged PRs**: 3435 · **Open PRs**: 633 · **Closed issues**: 10045 · **Open issues**: 2013 · **Commits**: 23997
+- **Releases**: 136 · **Merged PRs**: 3435 · **Open PRs**: 633 · **Closed issues**: 10047 · **Open issues**: 2012 · **Commits**: 23997
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 28 | 32 | 107 | 73 | 56 |
-| last60d | 2026-07-12 | 1 | 52 | 56 | 188 | 119 | 66 |
-| 90d | 2026-06-12 | 2 | 101 | 87 | 301 | 151 | 142 |
-| last180d | 2026-03-14 | 4 | 186 | 164 | 607 | 280 | 235 |
-| 360d | 2025-09-15 | 16 | 461 | 287 | 1651 | 533 | 561 |
-| last720d | 2024-09-20 | 45 | 1150 | 460 | 3429 | 929 | 1275 |
+| 30d | 2026-08-11 | 1 | 28 | 32 | 109 | 72 | 56 |
+| last60d | 2026-07-12 | 1 | 52 | 56 | 190 | 118 | 66 |
+| 90d | 2026-06-12 | 2 | 101 | 87 | 303 | 150 | 142 |
+| last180d | 2026-03-14 | 4 | 186 | 164 | 609 | 279 | 235 |
+| 360d | 2025-09-15 | 16 | 461 | 287 | 1653 | 532 | 561 |
+| last720d | 2024-09-20 | 45 | 1150 | 460 | 3431 | 928 | 1275 |
 
 ## Release assets
 
@@ -106,7 +106,7 @@ Reported by **281** distros on [repology.org](https://repology.org/project/yt-dl
 | Ubuntu 26.04 LTS | `2026.03.17` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2024.04.09` | ⚠️ outdated |
 | Arch | `2026.08.19` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `2026.8.19` | ✅ latest |
 | Fedora rawhide | `2026.08.19` | ✅ latest |
 | Nix unstable | `2026.08.19` | ✅ latest |
 | Void | `2026.08.19` | ✅ latest |
@@ -122,4 +122,4 @@ Install metadata for yt-dlp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:11:23Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:47:21Z._
