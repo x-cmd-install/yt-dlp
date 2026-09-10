@@ -23,23 +23,51 @@ x install yt-dlp
 - **Latest**: `2026.08.19` (2026-08-19)
 - **Last commit**: 2026-08-30
 - **Assets in release**: 24
-- **Published**: 2026-08-19T23:48:43Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [SHA2-256SUMS](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/SHA2-256SUMS) | 1.6 KiB | `other` |
+| [SHA2-256SUMS.sig](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/SHA2-256SUMS.sig) | 566 B | `other` |
+| [SHA2-512SUMS](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/SHA2-512SUMS) | 2.7 KiB | `other` |
+| [SHA2-512SUMS.sig](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/SHA2-512SUMS.sig) | 566 B | `other` |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp) | 2.9 MiB | `other` |
+| [yt-dlp.exe](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp.exe) | 17.0 MiB | `other` |
+| [yt-dlp.tar.gz](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp.tar.gz) | 5.7 MiB | `native/unknown` |
+| [yt-dlp_arm64.exe](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_arm64.exe) | 20.2 MiB | `other` |
+| [yt-dlp_linux](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_linux) | 38.6 MiB | `other` |
+| [yt-dlp_linux.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_linux.zip) | 38.6 MiB | `other` |
+| [yt-dlp_linux_aarch64](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_linux_aarch64) | 38.3 MiB | `native/linux/arm64` |
+| [yt-dlp_linux_aarch64.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_linux_aarch64.zip) | 38.4 MiB | `native/linux/arm64` |
+| [yt-dlp_linux_armv7l.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_linux_armv7l.zip) | 36.9 MiB | `native/linux/arm` |
+| [yt-dlp_macos](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_macos) | 35.4 MiB | `native/darwin/x64` |
+| [yt-dlp_macos.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_macos.zip) | 51.4 MiB | `native/darwin/x64` |
+| [yt-dlp_musllinux](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_musllinux) | 38.6 MiB | `other` |
+| [yt-dlp_musllinux.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_musllinux.zip) | 38.8 MiB | `other` |
+| [yt-dlp_musllinux_aarch64](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_musllinux_aarch64) | 38.0 MiB | `native/linux/arm64/musl` |
+| [yt-dlp_musllinux_aarch64.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_musllinux_aarch64.zip) | 38.1 MiB | `native/linux/arm64/musl` |
+| [yt-dlp_win.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_win.zip) | 17.2 MiB | `other` |
+| [yt-dlp_win_arm64.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_win_arm64.zip) | 20.5 MiB | `other` |
+| [yt-dlp_win_x86.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_win_x86.zip) | 12.7 MiB | `other` |
+| [yt-dlp_x86.exe](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_x86.exe) | 12.6 MiB | `other` |
+| [_update_spec](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/_update_spec) | 2.1 KiB | `other` |
 
 ## Popularity
 
-- **Stars**: 190,039 · **Forks**: 16,476 · **Open issues**: 12,057 · **Contributors**: 1,533
+- **Stars**: 190,134 · **Forks**: 16,497 · **Open issues**: 12,058 · **Contributors**: 1,533
 
 ## Totals (cumulative)
 
-- **Releases**: 136 · **Merged PRs**: 3435 · **Open PRs**: 632 · **Closed issues**: 10046 · **Open issues**: 2011 · **Commits**: 23997
+- **Releases**: 136 · **Merged PRs**: 3435 · **Open PRs**: 633 · **Closed issues**: 10045 · **Open issues**: 2013 · **Commits**: 23997
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 28 | 31 | 106 | 71 | 56 |
-| 90d | 2026-06-12 | 2 | 101 | 86 | 300 | 149 | 142 |
-| 360d | 2025-09-15 | 16 | 461 | 286 | 1651 | 531 | 561 |
+| 30d | 2026-08-11 | 1 | 28 | 32 | 107 | 73 | 56 |
+| 90d | 2026-06-12 | 2 | 101 | 87 | 301 | 151 | 142 |
+| 360d | 2025-09-15 | 16 | 461 | 287 | 1651 | 533 | 561 |
 
 ## Code size
 
@@ -68,8 +96,8 @@ Lowest-scoring checks:
 Install metadata for yt-dlp lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `yt-dlp` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/yt-dlp.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/yt-dlp.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:25:08Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:59:45Z._

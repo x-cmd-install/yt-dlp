@@ -4,7 +4,7 @@
 
 A feature-rich command-line audio/video downloader
 
-![yt-dlp](https://repo.x-cmd.io/yt-dlp.svg)
+![yt-dlp](https://repo.x-cmd.io/yt-dlp.svg?lang=zh)
 
 ## 安装
 
@@ -23,23 +23,51 @@ x install yt-dlp
 - **最新版本**: `2026.08.19` (2026-08-19)
 - **最近提交**: 2026-08-30
 - **Release 含资产**: 24 个
-- **发布时间**: 2026-08-19T23:48:43Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [SHA2-256SUMS](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/SHA2-256SUMS) | 1.6 KiB | `other` |
+| [SHA2-256SUMS.sig](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/SHA2-256SUMS.sig) | 566 B | `other` |
+| [SHA2-512SUMS](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/SHA2-512SUMS) | 2.7 KiB | `other` |
+| [SHA2-512SUMS.sig](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/SHA2-512SUMS.sig) | 566 B | `other` |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp) | 2.9 MiB | `other` |
+| [yt-dlp.exe](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp.exe) | 17.0 MiB | `other` |
+| [yt-dlp.tar.gz](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp.tar.gz) | 5.7 MiB | `native/unknown` |
+| [yt-dlp_arm64.exe](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_arm64.exe) | 20.2 MiB | `other` |
+| [yt-dlp_linux](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_linux) | 38.6 MiB | `other` |
+| [yt-dlp_linux.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_linux.zip) | 38.6 MiB | `other` |
+| [yt-dlp_linux_aarch64](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_linux_aarch64) | 38.3 MiB | `native/linux/arm64` |
+| [yt-dlp_linux_aarch64.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_linux_aarch64.zip) | 38.4 MiB | `native/linux/arm64` |
+| [yt-dlp_linux_armv7l.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_linux_armv7l.zip) | 36.9 MiB | `native/linux/arm` |
+| [yt-dlp_macos](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_macos) | 35.4 MiB | `native/darwin/x64` |
+| [yt-dlp_macos.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_macos.zip) | 51.4 MiB | `native/darwin/x64` |
+| [yt-dlp_musllinux](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_musllinux) | 38.6 MiB | `other` |
+| [yt-dlp_musllinux.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_musllinux.zip) | 38.8 MiB | `other` |
+| [yt-dlp_musllinux_aarch64](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_musllinux_aarch64) | 38.0 MiB | `native/linux/arm64/musl` |
+| [yt-dlp_musllinux_aarch64.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_musllinux_aarch64.zip) | 38.1 MiB | `native/linux/arm64/musl` |
+| [yt-dlp_win.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_win.zip) | 17.2 MiB | `other` |
+| [yt-dlp_win_arm64.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_win_arm64.zip) | 20.5 MiB | `other` |
+| [yt-dlp_win_x86.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_win_x86.zip) | 12.7 MiB | `other` |
+| [yt-dlp_x86.exe](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_x86.exe) | 12.6 MiB | `other` |
+| [_update_spec](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/_update_spec) | 2.1 KiB | `other` |
 
 ## 流行度
 
-- **Star**: 190,039 · **Fork**: 16,476 · **开放 issue**: 12,057 · **贡献者**: 1,533
+- **Star**: 190,134 · **Fork**: 16,497 · **开放 issue**: 12,058 · **贡献者**: 1,533
 
 ## 累计统计
 
-- **发布数**: 136 · **已合并 PR**: 3435 · **开放 PR**: 632 · **已关闭 issue**: 10046 · **开放 issue**: 2011 · **提交数**: 23997
+- **发布数**: 136 · **已合并 PR**: 3435 · **开放 PR**: 633 · **已关闭 issue**: 10045 · **开放 issue**: 2013 · **提交数**: 23997
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 28 | 31 | 106 | 71 | 56 |
-| 90d | 2026-06-12 | 2 | 101 | 86 | 300 | 149 | 142 |
-| 360d | 2025-09-15 | 16 | 461 | 286 | 1651 | 531 | 561 |
+| 30d | 2026-08-11 | 1 | 28 | 32 | 107 | 73 | 56 |
+| 90d | 2026-06-12 | 2 | 101 | 87 | 301 | 151 | 142 |
+| 360d | 2025-09-15 | 16 | 461 | 287 | 1651 | 533 | 561 |
 
 ## 代码规模
 
@@ -72,4 +100,4 @@ yt-dlp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:25:09Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:59:45Z._
