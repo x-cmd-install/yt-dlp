@@ -12,6 +12,28 @@ A feature-rich command-line audio/video downloader
 x install yt-dlp
 ```
 
+## 代码规模
+
+合计: **219,105** 行代码（覆盖前 5 种语言、共 **1136** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 217,217 | 5,637 | 25,142 | 1128 |
+| Json | 546 | 0 | 0 | 3 |
+| Toml | 453 | 0 | 30 | 1 |
+| JavaScript | 374 | 12 | 0 | 3 |
+| Makefile | 200 | 6 | 34 | 1 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **7.9 / 10**
+
+评分最低的几项:
+
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Security-Policy** (0/10) — security policy file not detected
+- **Fuzzing** (0/10) — project is not fuzzed
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/yt-dlp/yt-dlp>
@@ -23,6 +45,25 @@ x install yt-dlp
 - **最新版本**: `2026.08.19` (2026-08-19)
 - **最近提交**: 2026-08-30
 - **Release 含资产**: 24 个
+
+## 流行度
+
+- **Star**: 190,185 · **Fork**: 16,501 · **开放 issue**: 12,058 · **贡献者**: 1,533
+
+## 累计统计
+
+- **发布数**: 136 · **已合并 PR**: 3435 · **开放 PR**: 633 · **已关闭 issue**: 10045 · **开放 issue**: 2013 · **提交数**: 23997
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 28 | 32 | 107 | 73 | 56 |
+| last60d | 2026-07-12 | 1 | 52 | 56 | 188 | 119 | 66 |
+| 90d | 2026-06-12 | 2 | 101 | 87 | 301 | 151 | 142 |
+| last180d | 2026-03-14 | 4 | 186 | 164 | 607 | 280 | 235 |
+| 360d | 2025-09-15 | 16 | 461 | 287 | 1651 | 533 | 561 |
+| last720d | 2024-09-20 | 45 | 1150 | 460 | 3429 | 929 | 1275 |
 
 ## Release 资产
 
@@ -53,43 +94,24 @@ x install yt-dlp
 | [yt-dlp_x86.exe](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_x86.exe) | 12.6 MiB | `other` |
 | [_update_spec](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/_update_spec) | 2.1 KiB | `other` |
 
-## 流行度
+## 发行版状态
 
-- **Star**: 190,134 · **Fork**: 16,497 · **开放 issue**: 12,058 · **贡献者**: 1,533
+在 [repology.org](https://repology.org/project/yt-dlp) 上共有 **281** 个发行版报告此项目。**94** 个 ✅ 已是最新上游版本，**136** 个 ⚠️ 使用旧版本。
 
-## 累计统计
-
-- **发布数**: 136 · **已合并 PR**: 3435 · **开放 PR**: 633 · **已关闭 issue**: 10045 · **开放 issue**: 2013 · **提交数**: 23997
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 28 | 32 | 107 | 73 | 56 |
-| 90d | 2026-06-12 | 2 | 101 | 87 | 301 | 151 | 142 |
-| 360d | 2025-09-15 | 16 | 461 | 287 | 1651 | 533 | 561 |
-
-## 代码规模
-
-合计: **219,105** 行代码（覆盖前 5 种语言、共 **1136** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 217,217 | 5,637 | 25,142 | 1128 |
-| Json | 546 | 0 | 0 | 3 |
-| Toml | 453 | 0 | 30 | 1 |
-| JavaScript | 374 | 12 | 0 | 3 |
-| Makefile | 200 | 6 | 34 | 1 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **7.9 / 10**
-
-评分最低的几项:
-
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
-- **Fuzzing** (0/10) — project is not fuzzed
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `2026.08.19` | ✅ latest |
+| Debian 14 | `2026.08.19` | ✅ latest |
+| Debian 13 | `2025.04.30` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2026.03.17` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `2024.04.09` | ⚠️ outdated |
+| Arch | `2026.08.19` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Fedora rawhide | `2026.08.19` | ✅ latest |
+| Nix unstable | `2026.08.19` | ✅ latest |
+| Void | `2026.08.19` | ✅ latest |
+| Alpine edge | `2026.08.19` | ✅ latest |
+| openSUSE Tumbleweed | `2026.08.19` | ✅ latest |
 
 ## 改进这些数据
 
@@ -100,4 +122,4 @@ yt-dlp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T15:59:45Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:11:24Z._

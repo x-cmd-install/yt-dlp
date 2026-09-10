@@ -12,6 +12,28 @@ A feature-rich command-line audio/video downloader
 x install yt-dlp
 ```
 
+## Code insight
+
+Total: **219,105** lines of code across **1136** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 217,217 | 5,637 | 25,142 | 1128 |
+| Json | 546 | 0 | 0 | 3 |
+| Toml | 453 | 0 | 30 | 1 |
+| JavaScript | 374 | 12 | 0 | 3 |
+| Makefile | 200 | 6 | 34 | 1 |
+
+## OpenSSF Scorecard
+
+Overall score: **7.9 / 10**
+
+Lowest-scoring checks:
+
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Security-Policy** (0/10) — security policy file not detected
+- **Fuzzing** (0/10) — project is not fuzzed
+
 ## Source
 
 - **Upstream**: <https://github.com/yt-dlp/yt-dlp>
@@ -23,6 +45,25 @@ x install yt-dlp
 - **Latest**: `2026.08.19` (2026-08-19)
 - **Last commit**: 2026-08-30
 - **Assets in release**: 24
+
+## Popularity
+
+- **Stars**: 190,185 · **Forks**: 16,501 · **Open issues**: 12,058 · **Contributors**: 1,533
+
+## Totals (cumulative)
+
+- **Releases**: 136 · **Merged PRs**: 3435 · **Open PRs**: 633 · **Closed issues**: 10045 · **Open issues**: 2013 · **Commits**: 23997
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 28 | 32 | 107 | 73 | 56 |
+| last60d | 2026-07-12 | 1 | 52 | 56 | 188 | 119 | 66 |
+| 90d | 2026-06-12 | 2 | 101 | 87 | 301 | 151 | 142 |
+| last180d | 2026-03-14 | 4 | 186 | 164 | 607 | 280 | 235 |
+| 360d | 2025-09-15 | 16 | 461 | 287 | 1651 | 533 | 561 |
+| last720d | 2024-09-20 | 45 | 1150 | 460 | 3429 | 929 | 1275 |
 
 ## Release assets
 
@@ -53,43 +94,24 @@ x install yt-dlp
 | [yt-dlp_x86.exe](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_x86.exe) | 12.6 MiB | `other` |
 | [_update_spec](https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/_update_spec) | 2.1 KiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 190,134 · **Forks**: 16,497 · **Open issues**: 12,058 · **Contributors**: 1,533
+Reported by **281** distros on [repology.org](https://repology.org/project/yt-dlp). **94** are ✅ on the latest upstream release, **136** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 136 · **Merged PRs**: 3435 · **Open PRs**: 633 · **Closed issues**: 10045 · **Open issues**: 2013 · **Commits**: 23997
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 28 | 32 | 107 | 73 | 56 |
-| 90d | 2026-06-12 | 2 | 101 | 87 | 301 | 151 | 142 |
-| 360d | 2025-09-15 | 16 | 461 | 287 | 1651 | 533 | 561 |
-
-## Code size
-
-Total: **219,105** lines of code across **1136** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 217,217 | 5,637 | 25,142 | 1128 |
-| Json | 546 | 0 | 0 | 3 |
-| Toml | 453 | 0 | 30 | 1 |
-| JavaScript | 374 | 12 | 0 | 3 |
-| Makefile | 200 | 6 | 34 | 1 |
-
-## OpenSSF Scorecard
-
-Overall score: **7.9 / 10**
-
-Lowest-scoring checks:
-
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
-- **Fuzzing** (0/10) — project is not fuzzed
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2026.08.19` | ✅ latest |
+| Debian 14 | `2026.08.19` | ✅ latest |
+| Debian 13 | `2025.04.30` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2026.03.17` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `2024.04.09` | ⚠️ outdated |
+| Arch | `2026.08.19` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Fedora rawhide | `2026.08.19` | ✅ latest |
+| Nix unstable | `2026.08.19` | ✅ latest |
+| Void | `2026.08.19` | ✅ latest |
+| Alpine edge | `2026.08.19` | ✅ latest |
+| openSUSE Tumbleweed | `2026.08.19` | ✅ latest |
 
 ## Improve this data
 
@@ -100,4 +122,4 @@ Install metadata for yt-dlp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:59:45Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:11:23Z._
