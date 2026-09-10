@@ -7,7 +7,7 @@ about:
   latestVersion: "2026.08.19"
   latestRelease: "2026.08.19"
   latestPrerelease: "2022.08.18.36"
-  collectedAt: 2026-09-10T15:59:14Z
+  collectedAt: 2026-09-10T20:11:02Z
 timeline:
   created: 2020-10-26
   lastCommit: 2026-08-30
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-19
   lastPrerelease: 2022-08-19
 popularity:
-  star: 190134
+  star: 190185
   watcher: 934
-  fork: 16497
+  fork: 16501
   release: 136
   contributor: 1533
   pullRequest: 5161
@@ -87,7 +87,7 @@ total:
   commit: 23997
 ---
 path: /home/runner/.x-repo/github.com/yt-dlp/yt-dlp
-collectedAt: 2026-09-10T15:59:31Z
+collectedAt: 2026-09-10T20:11:15Z
 loc:
   Python:
     code: 217217
