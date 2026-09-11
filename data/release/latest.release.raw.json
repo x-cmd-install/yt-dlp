@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1595,
       "digest": "sha256:a63701f30755cb4d9317950d69703e9d751d490cb1b7059e1bb501a353fe7dcb",
-      "download_count": 672366,
+      "download_count": 676679,
       "created_at": "2026-08-19T23:48:35Z",
       "updated_at": "2026-08-19T23:48:35Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/SHA2-256SUMS"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:8d6f9a7c84c57222e3650c61699185878a3468308de702993ce4f20b5f9cf199",
-      "download_count": 7012,
+      "download_count": 7026,
       "created_at": "2026-08-19T23:48:35Z",
       "updated_at": "2026-08-19T23:48:35Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/SHA2-256SUMS.sig"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2811,
       "digest": "sha256:f09870100531faaa3f7151d3c1e718bdc90762de0da4e3ac46162417d629d1ea",
-      "download_count": 1725,
+      "download_count": 1734,
       "created_at": "2026-08-19T23:48:35Z",
       "updated_at": "2026-08-19T23:48:35Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/SHA2-512SUMS"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:4084e13d9f2b6546982deb15c214f11dfa2752a33851d6b86cd5ca0980abd856",
-      "download_count": 1310,
+      "download_count": 1319,
       "created_at": "2026-08-19T23:48:35Z",
       "updated_at": "2026-08-19T23:48:35Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/SHA2-512SUMS.sig"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3072469,
       "digest": "sha256:1fa6733c37ea6fb51c99ad8fe785e7b7e5f3246c9b980230329d4fb72ed8d4d6",
-      "download_count": 2167594,
+      "download_count": 2186245,
       "created_at": "2026-08-19T23:48:36Z",
       "updated_at": "2026-08-19T23:48:36Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 17840399,
       "digest": "sha256:66674953fe251b89f4d08c5f0e35e0728679bd67ab3d7d05c0562af101dd3e7a",
-      "download_count": 1239251,
+      "download_count": 1247609,
       "created_at": "2026-08-19T23:48:36Z",
       "updated_at": "2026-08-19T23:48:37Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp.exe"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6020567,
       "digest": "sha256:072aad4f2a7604e92155f61a275a4752dc64046c8f6d90df3710525d94cd37c1",
-      "download_count": 14232,
+      "download_count": 14357,
       "created_at": "2026-08-19T23:48:36Z",
       "updated_at": "2026-08-19T23:48:36Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 21159286,
       "digest": "sha256:05b438997bafc3affdfda9d041353c9d73e04dc842207254b655b0887c4445b0",
-      "download_count": 9328,
+      "download_count": 9388,
       "created_at": "2026-08-19T23:48:36Z",
       "updated_at": "2026-08-19T23:48:37Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_arm64.exe"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 40446224,
       "digest": "sha256:58162f9bfdc27458ea47bfcb311cf47028f17d8154a8bf7d689861d46399230a",
-      "download_count": 286709,
+      "download_count": 288850,
       "created_at": "2026-08-19T23:48:36Z",
       "updated_at": "2026-08-19T23:48:37Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_linux"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 40516244,
       "digest": "sha256:32e72032766bef9199d99d15beb69fd52e46df8f8b06f0d8745db59e04d339e9",
-      "download_count": 10922,
+      "download_count": 10984,
       "created_at": "2026-08-19T23:48:36Z",
       "updated_at": "2026-08-19T23:48:38Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_linux.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 40167448,
       "digest": "sha256:b16e4dab368a816cd05d477d698a605a6ae87ccee1c8ffd38fa21d7254141fcc",
-      "download_count": 17822,
+      "download_count": 17969,
       "created_at": "2026-08-19T23:48:37Z",
       "updated_at": "2026-08-19T23:48:38Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_linux_aarch64"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 40213537,
       "digest": "sha256:4e27ad43f3a34bacffd078694eb3edbb4e3b378e7da44edab2be02e98555516e",
-      "download_count": 2211,
+      "download_count": 2226,
       "created_at": "2026-08-19T23:48:37Z",
       "updated_at": "2026-08-19T23:48:38Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_linux_aarch64.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 38661544,
       "digest": "sha256:bd51eb5fed7788008f4f30d281a182376a1297910b6c78e747403e757a546508",
-      "download_count": 2246,
+      "download_count": 2260,
       "created_at": "2026-08-19T23:48:37Z",
       "updated_at": "2026-08-19T23:48:38Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_linux_armv7l.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 37146048,
       "digest": "sha256:0f192b7ec147ab6288885d6351d9ab67367640029b4377576ef46dd79cf7b202",
-      "download_count": 148278,
+      "download_count": 149226,
       "created_at": "2026-08-19T23:48:37Z",
       "updated_at": "2026-08-19T23:48:39Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_macos"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 53923637,
       "digest": "sha256:07e54b0865303c864006925913bce2604f8ee8cc6f18699bac9c309f9328a6d8",
-      "download_count": 105185,
+      "download_count": 105684,
       "created_at": "2026-08-19T23:48:38Z",
       "updated_at": "2026-08-19T23:48:39Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_macos.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 40523752,
       "digest": "sha256:f3dec9cfeaf304cec98290fe41c6ad465d4b747d302473559643e7af24929722",
-      "download_count": 4542,
+      "download_count": 4587,
       "created_at": "2026-08-19T23:48:38Z",
       "updated_at": "2026-08-19T23:48:40Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_musllinux"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 40667591,
       "digest": "sha256:a8a9761628be455368db73ab54a2858da22342084f300f7e0d50bdcbef2acf82",
-      "download_count": 1544,
+      "download_count": 1554,
       "created_at": "2026-08-19T23:48:39Z",
       "updated_at": "2026-08-19T23:48:40Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_musllinux.zip"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 39806408,
       "digest": "sha256:17b164c4d258be92bb1ad146cb7c336b783aedb380814aabbcb7d52937f77e57",
-      "download_count": 1306,
+      "download_count": 1309,
       "created_at": "2026-08-19T23:48:39Z",
       "updated_at": "2026-08-19T23:48:43Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_musllinux_aarch64"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 39905688,
       "digest": "sha256:46087f4965f48612d056c6e4b00a0898e8230ba90d709a0a751c7cc5735a1da3",
-      "download_count": 1500,
+      "download_count": 1508,
       "created_at": "2026-08-19T23:48:39Z",
       "updated_at": "2026-08-19T23:48:40Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_musllinux_aarch64.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 18087041,
       "digest": "sha256:30b4c14aafab6082becff7881e41b76df46dc43ea7633479410a91e29da492bf",
-      "download_count": 50476,
+      "download_count": 50749,
       "created_at": "2026-08-19T23:48:40Z",
       "updated_at": "2026-08-19T23:48:40Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_win.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 21463236,
       "digest": "sha256:2ad49db7429a6204721f711a44199a8c9fa8d5df2183dd7fedc4ef6c9e2e50d3",
-      "download_count": 5466,
+      "download_count": 5515,
       "created_at": "2026-08-19T23:48:40Z",
       "updated_at": "2026-08-19T23:48:41Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_win_arm64.zip"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 13272140,
       "digest": "sha256:dc7c11f014af67f23d9fd989868048abedbce01709ff642a29eb3f7578b802f7",
-      "download_count": 7397,
+      "download_count": 7440,
       "created_at": "2026-08-19T23:48:41Z",
       "updated_at": "2026-08-19T23:48:41Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_win_x86.zip"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 13199160,
       "digest": "sha256:a8f91bd41452506bc81ebd2f369b186fea0ee7075413ba00cef9fd346a0a5d0c",
-      "download_count": 119573,
+      "download_count": 120056,
       "created_at": "2026-08-19T23:48:41Z",
       "updated_at": "2026-08-19T23:48:42Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp_x86.exe"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 2191,
       "digest": "sha256:d19914e45913d262cc136a0d6a09f2d49b7201ced7aa843ee227233c72432494",
-      "download_count": 649161,
+      "download_count": 653400,
       "created_at": "2026-08-19T23:48:35Z",
       "updated_at": "2026-08-19T23:48:35Z",
       "browser_download_url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/_update_spec"
