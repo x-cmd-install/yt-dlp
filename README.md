@@ -4,7 +4,7 @@
 
 A feature-rich command-line audio/video downloader
 
-[![x-cmd/install — yt-dlp Code Quality Monitoring Repo Card](https://repo.x-cmd.io/yt-dlp.svg)](https://x-cmd.com/install/yt-dlp)
+[![x-cmd/install — yt-dlp Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/yt-dlp.svg)](https://x-cmd.com/install/yt-dlp)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 192,672 · **Forks**: 16,723 · **Open issues**: 12,092 · **Contributors**: 1,533
+- **Stars**: 193,016 · **Forks**: 16,749 · **Open issues**: 12,093 · **Contributors**: 1,533
 
 ## Totals (cumulative)
 
-- **Releases**: 136 · **Merged PRs**: 3436 · **Open PRs**: 637 · **Closed issues**: 10067 · **Open issues**: 2025 · **Commits**: 23998
+- **Releases**: 136 · **Merged PRs**: 3436 · **Open PRs**: 638 · **Closed issues**: 10066 · **Open issues**: 2027 · **Commits**: 23998
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 6 | 30 | 79 | 61 | 7 |
-| last60d | 2026-07-24 | 1 | 42 | 48 | 185 | 101 | 60 |
-| 90d | 2026-06-24 | 2 | 79 | 79 | 280 | 149 | 110 |
-| last180d | 2026-03-26 | 3 | 177 | 155 | 578 | 269 | 220 |
-| 360d | 2025-09-27 | 14 | 440 | 283 | 1589 | 527 | 539 |
-| last720d | 2024-10-02 | 44 | 1124 | 463 | 3399 | 927 | 1245 |
+| 30d | 2026-08-24 | 0 | 6 | 31 | 76 | 61 | 7 |
+| last60d | 2026-07-25 | 1 | 42 | 47 | 182 | 101 | 60 |
+| 90d | 2026-06-25 | 2 | 77 | 80 | 279 | 151 | 110 |
+| last180d | 2026-03-27 | 3 | 176 | 154 | 576 | 271 | 220 |
+| 360d | 2025-09-28 | 14 | 440 | 284 | 1583 | 529 | 539 |
+| last720d | 2024-10-03 | 44 | 1122 | 464 | 3395 | 929 | 1245 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for yt-dlp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:37:57Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:34:01Z._

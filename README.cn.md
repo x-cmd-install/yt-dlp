@@ -4,7 +4,7 @@
 
 A feature-rich command-line audio/video downloader
 
-[![x-cmd/install — yt-dlp Code Quality Monitoring Repo Card](https://repo.x-cmd.io/yt-dlp.svg?lang=zh)](https://x-cmd.com/install/yt-dlp)
+[![x-cmd/install — yt-dlp Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/yt-dlp.svg?lang=zh)](https://x-cmd.com/install/yt-dlp)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install yt-dlp
 
 ## 流行度
 
-- **Star**: 192,672 · **Fork**: 16,723 · **开放 issue**: 12,092 · **贡献者**: 1,533
+- **Star**: 193,016 · **Fork**: 16,749 · **开放 issue**: 12,093 · **贡献者**: 1,533
 
 ## 累计统计
 
-- **发布数**: 136 · **已合并 PR**: 3436 · **开放 PR**: 637 · **已关闭 issue**: 10067 · **开放 issue**: 2025 · **提交数**: 23998
+- **发布数**: 136 · **已合并 PR**: 3436 · **开放 PR**: 638 · **已关闭 issue**: 10066 · **开放 issue**: 2027 · **提交数**: 23998
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 6 | 30 | 79 | 61 | 7 |
-| last60d | 2026-07-24 | 1 | 42 | 48 | 185 | 101 | 60 |
-| 90d | 2026-06-24 | 2 | 79 | 79 | 280 | 149 | 110 |
-| last180d | 2026-03-26 | 3 | 177 | 155 | 578 | 269 | 220 |
-| 360d | 2025-09-27 | 14 | 440 | 283 | 1589 | 527 | 539 |
-| last720d | 2024-10-02 | 44 | 1124 | 463 | 3399 | 927 | 1245 |
+| 30d | 2026-08-24 | 0 | 6 | 31 | 76 | 61 | 7 |
+| last60d | 2026-07-25 | 1 | 42 | 47 | 182 | 101 | 60 |
+| 90d | 2026-06-25 | 2 | 77 | 80 | 279 | 151 | 110 |
+| last180d | 2026-03-27 | 3 | 176 | 154 | 576 | 271 | 220 |
+| 360d | 2025-09-28 | 14 | 440 | 284 | 1583 | 529 | 539 |
+| last720d | 2024-10-03 | 44 | 1122 | 464 | 3395 | 929 | 1245 |
 
 ## Release 资产
 
@@ -103,4 +103,4 @@ yt-dlp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:37:57Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:34:01Z._
