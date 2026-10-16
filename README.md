@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 197,839 · **Forks**: 17,245 · **Open issues**: 12,158 · **Contributors**: 1,534
+- **Stars**: 198,205 · **Forks**: 17,282 · **Open issues**: 12,159 · **Contributors**: 1,534
 
 ## Totals (cumulative)
 
-- **Releases**: 136 · **Merged PRs**: 3449 · **Open PRs**: 655 · **Closed issues**: 10117 · **Open issues**: 2041 · **Commits**: 24011
+- **Releases**: 136 · **Merged PRs**: 3449 · **Open PRs**: 662 · **Closed issues**: 10117 · **Open issues**: 2042 · **Commits**: 24011
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 13 | 28 | 46 | 42 | 14 |
-| last60d | 2026-08-16 | 1 | 36 | 59 | 159 | 99 | 51 |
-| 90d | 2026-07-17 | 1 | 65 | 79 | 249 | 137 | 81 |
-| last180d | 2026-04-18 | 3 | 161 | 161 | 557 | 268 | 216 |
-| 360d | 2025-10-20 | 13 | 435 | 299 | 1519 | 515 | 523 |
-| last720d | 2024-10-25 | 42 | 1096 | 471 | 3336 | 925 | 1209 |
+| 30d | 2026-09-16 | 0 | 13 | 35 | 43 | 41 | 14 |
+| last60d | 2026-08-17 | 1 | 33 | 66 | 156 | 99 | 51 |
+| 90d | 2026-07-18 | 1 | 65 | 87 | 247 | 134 | 81 |
+| last180d | 2026-04-19 | 3 | 161 | 169 | 553 | 267 | 216 |
+| 360d | 2025-10-21 | 13 | 435 | 306 | 1512 | 516 | 523 |
+| last720d | 2024-10-26 | 42 | 1093 | 478 | 3329 | 925 | 1208 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for yt-dlp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:22:34Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:17:46Z._
