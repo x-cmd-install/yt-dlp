@@ -43,27 +43,27 @@ x install yt-dlp
 ## 发布
 
 - **最新版本**: `2026.10.21` (2026-10-21)
-- **最近提交**: 2026-10-21
+- **最近提交**: 2026-10-23
 - **Release 含资产**: 24 个
 
 ## 流行度
 
-- **Star**: 200,170 · **Fork**: 17,452 · **开放 issue**: 12,181 · **贡献者**: 1,534
+- **Star**: 200,506 · **Fork**: 17,485 · **开放 issue**: 12,185 · **贡献者**: 1,534
 
 ## 累计统计
 
-- **发布数**: 137 · **已合并 PR**: 3460 · **开放 PR**: 674 · **已关闭 issue**: 10134 · **开放 issue**: 2047 · **提交数**: 24022
+- **发布数**: 137 · **已合并 PR**: 3461 · **开放 PR**: 677 · **已关闭 issue**: 10143 · **开放 issue**: 2042 · **提交数**: 24023
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 17 | 53 | 46 | 46 | 32 |
-| last60d | 2026-08-23 | 1 | 27 | 77 | 138 | 96 | 48 |
-| 90d | 2026-07-24 | 2 | 64 | 93 | 247 | 133 | 92 |
-| last180d | 2026-04-25 | 4 | 170 | 178 | 548 | 259 | 234 |
-| 360d | 2025-10-27 | 13 | 436 | 315 | 1451 | 510 | 534 |
-| last720d | 2024-11-01 | 43 | 1089 | 487 | 3316 | 921 | 1204 |
+| 30d | 2026-09-23 | 1 | 15 | 55 | 53 | 41 | 33 |
+| last60d | 2026-08-24 | 1 | 28 | 80 | 143 | 90 | 49 |
+| 90d | 2026-07-25 | 2 | 65 | 94 | 252 | 127 | 93 |
+| last180d | 2026-04-26 | 4 | 171 | 181 | 553 | 253 | 235 |
+| 360d | 2025-10-28 | 13 | 436 | 318 | 1451 | 504 | 535 |
+| last720d | 2024-11-02 | 43 | 1087 | 490 | 3320 | 914 | 1205 |
 
 ## Release 资产
 
@@ -94,6 +94,25 @@ x install yt-dlp
 | [yt-dlp_x86.exe](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.21/yt-dlp_x86.exe) | 12.6 MiB | `other` |
 | [_update_spec](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.21/_update_spec) | 2.1 KiB | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/yt-dlp) 上共有 **272** 个发行版报告此项目。**36** 个 ✅ 已是最新上游版本，**190** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `2026.10.21` | ✅ latest |
+| Debian 14 | `2026.08.19` | ⚠️ outdated |
+| Debian 13 | `2025.04.30` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2026.03.17` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `2024.04.09` | ⚠️ outdated |
+| Arch | `2026.10.21` | ✅ latest |
+| Homebrew | `2026.10.21` | ✅ latest |
+| Fedora rawhide | `2026.08.19` | ⚠️ outdated |
+| Nix unstable | `2026.08.19` | ⚠️ outdated |
+| Void | `2026.08.19` | ⚠️ outdated |
+| Alpine edge | `2026.10.21` | ✅ latest |
+| openSUSE Tumbleweed | `2026.08.19` | ⚠️ outdated |
+
 ## 改进这些数据
 
 yt-dlp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `yt-dlp` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -103,4 +122,4 @@ yt-dlp 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:26:42Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:32:10Z._
