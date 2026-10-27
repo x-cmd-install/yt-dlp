@@ -1,35 +1,45 @@
+- repo: chromebrew
+  srcname: yt_dlp
+  visiblename: yt_dlp
+  version: 2026.10.21
+  origversion: null
+  status: outdated
+  summary: A fork of youtube-dl with additional features and patches
+  licenses:
+    - MIT
+- repo: deb_multimedia_unstable
+  subrepo: main
+  srcname: yt-dlp-dmo
+  binnames:
+    - yt-dlp
+  visiblename: yt-dlp-dmo
+  version: 2026.10.26
+  origversion: 1:2026.10.26-dmo1
+  status: newest
+  maintainers:
+    - marillat@deb-multimedia.org
+  categories:
+    - misc
 - repo: aerynos
   srcname: yt-dlp
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: null
-  status: newest
+  status: outdated
   summary: yt-dlp is a feature-rich command-line audio/video downloader with support for thousands of sites
   licenses:
     - Unlicense
-- repo: chimera
-  subrepo: main
+- repo: manjaro_stable
+  subrepo: extra
   srcname: yt-dlp
-  binname: yt-dlp-doc
-  visiblename: yt-dlp-doc
+  binname: yt-dlp
+  visiblename: yt-dlp
   version: 2026.08.19
-  origversion: 2026.08.19-r0
+  origversion: 2026.08.19-1
   status: outdated
-  summary: CLI program to download videos from YouTube and other sites (documentation)
+  summary: A youtube-dl fork with additional features and fixes
   licenses:
     - Unlicense
-- repo: exherbo
-  subrepo: media
-  srcname: net-misc/yt-dlp
-  visiblename: net-misc/yt-dlp
-  version: 2026.10.21
-  origversion: null
-  status: newest
-  summary: A feature-rich command-line audio/video downloader
-  maintainers:
-    - fallback-mnt-exherbo@repology
-  categories:
-    - net-misc
 - repo: alpine_3_24
   subrepo: community
   srcname: yt-dlp
@@ -37,7 +47,7 @@
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: 2026.10.21-r0
-  status: newest
+  status: outdated
   summary: Command-line program to download videos from YouTube
   maintainers:
     - lauren@selfisekai.rocks
@@ -50,7 +60,7 @@
   visiblename: yt-dlp-bash-completion
   version: 2026.10.21
   origversion: 2026.10.21-r0
-  status: newest
+  status: outdated
   summary: Bash completions for yt-dlp
   maintainers:
     - lauren@selfisekai.rocks
@@ -63,7 +73,7 @@
   visiblename: yt-dlp-core
   version: 2026.10.21
   origversion: 2026.10.21-r0
-  status: newest
+  status: outdated
   summary: Command-line program to download videos from YouTube
   maintainers:
     - lauren@selfisekai.rocks
@@ -76,7 +86,7 @@
   visiblename: yt-dlp-core-pyc
   version: 2026.10.21
   origversion: 2026.10.21-r0
-  status: newest
+  status: outdated
   summary: Precompiled Python bytecode for yt-dlp-core
   maintainers:
     - lauren@selfisekai.rocks
@@ -89,7 +99,7 @@
   visiblename: yt-dlp-doc
   version: 2026.10.21
   origversion: 2026.10.21-r0
-  status: newest
+  status: outdated
   summary: Command-line program to download videos from YouTube (documentation)
   maintainers:
     - lauren@selfisekai.rocks
@@ -102,7 +112,7 @@
   visiblename: yt-dlp-fish-completion
   version: 2026.10.21
   origversion: 2026.10.21-r0
-  status: newest
+  status: outdated
   summary: Fish completions for yt-dlp
   maintainers:
     - lauren@selfisekai.rocks
@@ -115,7 +125,7 @@
   visiblename: yt-dlp-zsh-completion
   version: 2026.10.21
   origversion: 2026.10.21-r0
-  status: newest
+  status: outdated
   summary: Zsh completions for yt-dlp
   maintainers:
     - lauren@selfisekai.rocks
@@ -128,7 +138,7 @@
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: 2026.10.21-r0
-  status: newest
+  status: outdated
   summary: Command-line program to download videos from YouTube
   maintainers:
     - lauren@selfisekai.rocks
@@ -141,7 +151,7 @@
   visiblename: yt-dlp-bash-completion
   version: 2026.10.21
   origversion: 2026.10.21-r0
-  status: newest
+  status: outdated
   summary: Bash completions for yt-dlp
   maintainers:
     - lauren@selfisekai.rocks
@@ -154,7 +164,7 @@
   visiblename: yt-dlp-core
   version: 2026.10.21
   origversion: 2026.10.21-r0
-  status: newest
+  status: outdated
   summary: Command-line program to download videos from YouTube
   maintainers:
     - lauren@selfisekai.rocks
@@ -167,7 +177,7 @@
   visiblename: yt-dlp-core-pyc
   version: 2026.10.21
   origversion: 2026.10.21-r0
-  status: newest
+  status: outdated
   summary: Precompiled Python bytecode for yt-dlp-core
   maintainers:
     - lauren@selfisekai.rocks
@@ -180,25 +190,12 @@
   visiblename: yt-dlp-doc
   version: 2026.10.21
   origversion: 2026.10.21-r0
-  status: newest
+  status: outdated
   summary: Command-line program to download videos from YouTube (documentation)
   maintainers:
     - lauren@selfisekai.rocks
   licenses:
     - Unlicense
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: yt-dlp
-  binnames:
-    - yt-dlp
-  visiblename: yt-dlp
-  version: 2026.10.21
-  origversion: 2026.10.21-1
-  status: newest
-  maintainers:
-    - unit193@debian.org
-  categories:
-    - misc
 - repo: alpine_edge
   subrepo: community
   srcname: yt-dlp
@@ -206,7 +203,7 @@
   visiblename: yt-dlp-fish-completion
   version: 2026.10.21
   origversion: 2026.10.21-r0
-  status: newest
+  status: outdated
   summary: Fish completions for yt-dlp
   maintainers:
     - lauren@selfisekai.rocks
@@ -219,7 +216,7 @@
   visiblename: yt-dlp-zsh-completion
   version: 2026.10.21
   origversion: 2026.10.21-r0
-  status: newest
+  status: outdated
   summary: Zsh completions for yt-dlp
   maintainers:
     - lauren@selfisekai.rocks
@@ -263,7 +260,7 @@
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: null
-  status: newest
+  status: outdated
   summary: Command-line media stream downloader for YouTube and other streaming sites
   maintainers:
     - fallback-mnt-aosc@repology
@@ -276,7 +273,7 @@
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: 2026.10.21-1
-  status: newest
+  status: outdated
   summary: A youtube-dl fork with additional features and fixes
   licenses:
     - Unlicense
@@ -337,13 +334,17 @@
   summary: CLI program to download videos from YouTube and other sites (bash completions)
   licenses:
     - Unlicense
-- repo: homebrew
+- repo: chimera
+  subrepo: main
   srcname: yt-dlp
-  visiblename: yt-dlp
-  version: 2026.10.21
-  origversion: null
-  status: newest
-  summary: Feature-rich command-line audio/video downloader
+  binname: yt-dlp-doc
+  visiblename: yt-dlp-doc
+  version: 2026.08.19
+  origversion: 2026.08.19-r0
+  status: outdated
+  summary: CLI program to download videos from YouTube and other sites (documentation)
+  licenses:
+    - Unlicense
 - repo: chimera
   subrepo: main
   srcname: yt-dlp
@@ -404,30 +405,8 @@
   visiblename: YT-DLP
   version: 2026.10.21
   origversion: null
-  status: newest
+  status: outdated
   summary: A youtube-dl fork with additional features and fixes
-- repo: chromebrew
-  srcname: yt_dlp
-  visiblename: yt_dlp
-  version: 2026.10.21
-  origversion: null
-  status: newest
-  summary: A fork of youtube-dl with additional features and patches
-  licenses:
-    - MIT
-- repo: deb_multimedia_unstable
-  subrepo: main
-  srcname: yt-dlp-dmo
-  binnames:
-    - yt-dlp
-  visiblename: yt-dlp-dmo
-  version: 2026.10.21
-  origversion: 1:2026.10.21-dmo1
-  status: newest
-  maintainers:
-    - marillat@deb-multimedia.org
-  categories:
-    - misc
 - repo: debian_13_backports
   subrepo: trixie-backports/main
   srcname: yt-dlp
@@ -436,7 +415,7 @@
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: 2026.10.21-1~bpo13+1
-  status: newest
+  status: outdated
   maintainers:
     - unit193@debian.org
   categories:
@@ -449,7 +428,7 @@
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: 2026.10.21-1
-  status: newest
+  status: outdated
   maintainers:
     - unit193@debian.org
   categories:
@@ -462,18 +441,36 @@
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: 2026.10.21-1
-  status: newest
+  status: outdated
   maintainers:
     - unit193@debian.org
   categories:
     - misc
-- repo: homebrew
+- repo: devuan_unstable
+  subrepo: unstable/main
   srcname: yt-dlp
+  binnames:
+    - yt-dlp
   visiblename: yt-dlp
-  version: HEAD
+  version: 2026.10.21
+  origversion: 2026.10.21-1
+  status: outdated
+  maintainers:
+    - unit193@debian.org
+  categories:
+    - misc
+- repo: exherbo
+  subrepo: media
+  srcname: net-misc/yt-dlp
+  visiblename: net-misc/yt-dlp
+  version: 2026.10.21
   origversion: null
-  status: rolling
-  summary: Feature-rich command-line audio/video downloader
+  status: outdated
+  summary: A feature-rich command-line audio/video downloader
+  maintainers:
+    - fallback-mnt-exherbo@repology
+  categories:
+    - net-misc
 - repo: fedora_43
   subrepo: updates
   srcname: yt-dlp
@@ -516,7 +513,7 @@
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: 2026.10.21-1.fc46
-  status: newest
+  status: outdated
   summary: A command-line program to download videos from online video platforms
   licenses:
     - Unlicense
@@ -528,7 +525,7 @@
   visiblename: www/py-yt-dlp
   version: 2026.10.21
   origversion: null
-  status: newest
+  status: outdated
   summary: Program for downloading videos from various platforms (devel files)
   maintainers:
     - yuri@freebsd.org
@@ -540,7 +537,7 @@
   visiblename: www/yt-dlp
   version: 2026.10.21
   origversion: null
-  status: newest
+  status: outdated
   summary: Command-line program for downloading videos from various platforms
   maintainers:
     - yuri@freebsd.org
@@ -551,7 +548,7 @@
   visiblename: net-misc/yt-dlp
   version: 2026.10.21
   origversion: null
-  status: newest
+  status: legacy
   summary: youtube-dl fork with additional features and fixes
   maintainers:
     - ionen@gentoo.org
@@ -562,9 +559,9 @@
 - repo: gentoo
   srcname: net-misc/yt-dlp
   visiblename: net-misc/yt-dlp
-  version: 2026.08.19
+  version: 2026.10.26
   origversion: null
-  status: legacy
+  status: newest
   summary: youtube-dl fork with additional features and fixes
   maintainers:
     - ionen@gentoo.org
@@ -598,9 +595,23 @@
   visiblename: net-misc/yt_dlp
   version: 2026.10.21
   origversion: null
-  status: newest
+  status: outdated
   categories:
     - net-misc
+- repo: homebrew
+  srcname: yt-dlp
+  visiblename: yt-dlp
+  version: 2026.10.21
+  origversion: null
+  status: outdated
+  summary: Feature-rich command-line audio/video downloader
+- repo: homebrew
+  srcname: yt-dlp
+  visiblename: yt-dlp
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Feature-rich command-line audio/video downloader
 - repo: kali_rolling
   subrepo: main
   srcname: yt-dlp
@@ -621,7 +632,7 @@
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: 2026.10.21-1
-  status: newest
+  status: outdated
   summary: Command-line program to download videos from YouTube.com and other video sites
   maintainers:
     - demm@kaosx.us
@@ -633,7 +644,7 @@
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: null
-  status: newest
+  status: outdated
   maintainers:
     - owen@owenrafferty.com
 - repo: liguros_stable
@@ -667,7 +678,7 @@
   visiblename: net-misc/yt-dlp
   version: 2026.10.21
   origversion: null
-  status: newest
+  status: outdated
   summary: youtube-dl fork with additional features and fixes
   maintainers:
     - ionen@gentoo.org
@@ -694,7 +705,7 @@
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: null
-  status: newest
+  status: outdated
   summary: command-line program to download videos from YouTube.com and other sites
   maintainers:
     - akierig@github
@@ -704,18 +715,6 @@
     - public-domain
   categories:
     - net
-- repo: mx_25_testing
-  srcname: yt-dlp
-  binnames:
-    - yt-dlp
-  visiblename: yt-dlp
-  version: 2026.08.19
-  origversion: 2026.08.19-1~mx25+1
-  status: outdated
-  maintainers:
-    - stevep@mxlinux.org
-  categories:
-    - web
 - repo: mageia_9
   subrepo: core/updates
   srcname: yt-dlp
@@ -771,17 +770,6 @@
     - Unlicense
   categories:
     - Video/Players
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: yt-dlp
-  binname: yt-dlp
-  visiblename: yt-dlp
-  version: 2026.08.19
-  origversion: 2026.08.19-1
-  status: outdated
-  summary: A youtube-dl fork with additional features and fixes
-  licenses:
-    - Unlicense
 - repo: manjaro_testing
   subrepo: extra
   srcname: yt-dlp
@@ -800,7 +788,7 @@
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: 2026.10.21-1
-  status: newest
+  status: outdated
   summary: A youtube-dl fork with additional features and fixes
   licenses:
     - Unlicense
@@ -810,7 +798,7 @@
   visiblename: mingw-w64-clang-x86_64-yt-dlp
   version: 2026.10.21
   origversion: 2026.10.21-1
-  status: newest
+  status: outdated
   summary: A youtube-dl fork with additional features and fixes (mingw-w64)
   licenses:
     - spdx:Unlicense
@@ -820,7 +808,7 @@
   visiblename: mingw-w64-clang-aarch64-yt-dlp
   version: 2026.10.21
   origversion: 2026.10.21-1
-  status: newest
+  status: outdated
   summary: A youtube-dl fork with additional features and fixes (mingw-w64)
   licenses:
     - spdx:Unlicense
@@ -830,7 +818,7 @@
   visiblename: mingw-w64-ucrt-x86_64-yt-dlp
   version: 2026.10.21
   origversion: 2026.10.21-1
-  status: newest
+  status: outdated
   summary: A youtube-dl fork with additional features and fixes (mingw-w64)
   licenses:
     - spdx:Unlicense
@@ -855,17 +843,93 @@
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: 2026.10.21-1~mx25+1
-  status: newest
+  status: outdated
+  maintainers:
+    - stevep@mxlinux.org
+  categories:
+    - web
+- repo: mx_25_testing
+  srcname: yt-dlp
+  binnames:
+    - yt-dlp
+  visiblename: yt-dlp
+  version: 2026.08.19
+  origversion: 2026.08.19-1~mx25+1
+  status: outdated
   maintainers:
     - stevep@mxlinux.org
   categories:
     - web
 - repo: nix_stable_26_05
+  srcname: python313Packages.yt-dlp
+  visiblename: yt-dlp
+  version: 2026.10.21
+  origversion: null
+  status: outdated
+  summary: Feature-rich command-line audio/video downloader
+  maintainers:
+    - sandro.jaeckel@gmail.com
+    - git@evy.pink
+  licenses:
+    - Unlicense
+  categories:
+    - python313Packages
+- repo: pkgsrc_current
+  srcname: net/yt-dlp
+  binname: yt-dlp
+  visiblename: net/yt-dlp
+  version: 2026.10.21
+  origversion: null
+  status: outdated
+  summary: Youtube-dl fork with new features and patches
+  maintainers:
+    - leot@netbsd.org
+  categories:
+    - net
+- repo: nix_stable_26_05
+  srcname: python313Packages.yt-dlp-light
+  visiblename: yt-dlp
+  version: 2026.10.21
+  origversion: null
+  status: outdated
+  summary: Feature-rich command-line audio/video downloader
+  maintainers:
+    - sandro.jaeckel@gmail.com
+    - git@evy.pink
+  licenses:
+    - Unlicense
+  categories:
+    - python313Packages
+- repo: nix_stable_26_05
+  srcname: yt-dlp
+  visiblename: yt-dlp
+  version: 2026.10.21
+  origversion: null
+  status: outdated
+  summary: Feature-rich command-line audio/video downloader
+  maintainers:
+    - sandro.jaeckel@gmail.com
+    - git@evy.pink
+  licenses:
+    - Unlicense
+- repo: nix_stable_26_05
+  srcname: yt-dlp-light
+  visiblename: yt-dlp
+  version: 2026.10.21
+  origversion: null
+  status: outdated
+  summary: Feature-rich command-line audio/video downloader
+  maintainers:
+    - sandro.jaeckel@gmail.com
+    - git@evy.pink
+  licenses:
+    - Unlicense
+- repo: nix_stable_26_05
   srcname: python314Packages.yt-dlp
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: null
-  status: newest
+  status: outdated
   summary: Feature-rich command-line audio/video downloader
   maintainers:
     - sandro.jaeckel@gmail.com
@@ -879,7 +943,7 @@
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: null
-  status: newest
+  status: outdated
   summary: Feature-rich command-line audio/video downloader
   maintainers:
     - sandro.jaeckel@gmail.com
@@ -888,114 +952,10 @@
     - Unlicense
   categories:
     - python314Packages
-- repo: nix_stable_26_05
-  srcname: yt-dlp
-  visiblename: yt-dlp
-  version: 2026.10.21
-  origversion: null
-  status: newest
-  summary: Feature-rich command-line audio/video downloader
-  maintainers:
-    - sandro.jaeckel@gmail.com
-    - git@evy.pink
-  licenses:
-    - Unlicense
-- repo: nix_stable_26_05
-  srcname: yt-dlp-light
-  visiblename: yt-dlp
-  version: 2026.10.21
-  origversion: null
-  status: newest
-  summary: Feature-rich command-line audio/video downloader
-  maintainers:
-    - sandro.jaeckel@gmail.com
-    - git@evy.pink
-  licenses:
-    - Unlicense
-- repo: nix_stable_26_05
-  srcname: python313Packages.yt-dlp
-  visiblename: yt-dlp
-  version: 2026.10.21
-  origversion: null
-  status: newest
-  summary: Feature-rich command-line audio/video downloader
-  maintainers:
-    - sandro.jaeckel@gmail.com
-    - git@evy.pink
-  licenses:
-    - Unlicense
-  categories:
-    - python313Packages
-- repo: nix_stable_26_05
-  srcname: python313Packages.yt-dlp-light
-  visiblename: yt-dlp
-  version: 2026.10.21
-  origversion: null
-  status: newest
-  summary: Feature-rich command-line audio/video downloader
-  maintainers:
-    - sandro.jaeckel@gmail.com
-    - git@evy.pink
-  licenses:
-    - Unlicense
-  categories:
-    - python313Packages
-- repo: nix_unstable
-  srcname: yt-dlp
-  visiblename: yt-dlp
-  version: 2026.08.19
-  origversion: null
-  status: outdated
-  summary: Feature-rich command-line audio/video downloader
-  maintainers:
-    - sandro.jaeckel@gmail.com
-    - git@evy.pink
-  licenses:
-    - Unlicense
-- repo: nix_unstable
-  srcname: yt-dlp-light
-  visiblename: yt-dlp
-  version: 2026.08.19
-  origversion: null
-  status: outdated
-  summary: Feature-rich command-line audio/video downloader
-  maintainers:
-    - sandro.jaeckel@gmail.com
-    - git@evy.pink
-  licenses:
-    - Unlicense
-- repo: nix_unstable
-  srcname: python313Packages.yt-dlp
-  visiblename: yt-dlp
-  version: 2026.08.19
-  origversion: null
-  status: outdated
-  summary: Feature-rich command-line audio/video downloader
-  maintainers:
-    - sandro.jaeckel@gmail.com
-    - git@evy.pink
-  licenses:
-    - Unlicense
-  categories:
-    - python313Packages
-- repo: nix_unstable
-  srcname: python313Packages.yt-dlp-light
-  visiblename: yt-dlp
-  version: 2026.08.19
-  origversion: null
-  status: outdated
-  summary: Feature-rich command-line audio/video downloader
-  maintainers:
-    - sandro.jaeckel@gmail.com
-    - git@evy.pink
-  licenses:
-    - Unlicense
-  categories:
-    - python313Packages
 - repo: nix_unstable
   srcname: python314Packages.yt-dlp
   visiblename: yt-dlp
-  version: 2026.08.19
+  version: 2026.10.21
   origversion: null
   status: outdated
   summary: Feature-rich command-line audio/video downloader
@@ -1009,7 +969,7 @@
 - repo: nix_unstable
   srcname: python314Packages.yt-dlp-light
   visiblename: yt-dlp
-  version: 2026.08.19
+  version: 2026.10.21
   origversion: null
   status: outdated
   summary: Feature-rich command-line audio/video downloader
@@ -1020,13 +980,65 @@
     - Unlicense
   categories:
     - python314Packages
+- repo: nix_unstable
+  srcname: yt-dlp
+  visiblename: yt-dlp
+  version: 2026.10.21
+  origversion: null
+  status: outdated
+  summary: Feature-rich command-line audio/video downloader
+  maintainers:
+    - sandro.jaeckel@gmail.com
+    - git@evy.pink
+  licenses:
+    - Unlicense
+- repo: nix_unstable
+  srcname: yt-dlp-light
+  visiblename: yt-dlp
+  version: 2026.10.21
+  origversion: null
+  status: outdated
+  summary: Feature-rich command-line audio/video downloader
+  maintainers:
+    - sandro.jaeckel@gmail.com
+    - git@evy.pink
+  licenses:
+    - Unlicense
+- repo: nix_unstable
+  srcname: python313Packages.yt-dlp
+  visiblename: yt-dlp
+  version: 2026.10.21
+  origversion: null
+  status: outdated
+  summary: Feature-rich command-line audio/video downloader
+  maintainers:
+    - sandro.jaeckel@gmail.com
+    - git@evy.pink
+  licenses:
+    - Unlicense
+  categories:
+    - python313Packages
+- repo: nix_unstable
+  srcname: python313Packages.yt-dlp-light
+  visiblename: yt-dlp
+  version: 2026.10.21
+  origversion: null
+  status: outdated
+  summary: Feature-rich command-line audio/video downloader
+  maintainers:
+    - sandro.jaeckel@gmail.com
+    - git@evy.pink
+  licenses:
+    - Unlicense
+  categories:
+    - python313Packages
 - repo: openbsd
   srcname: www/yt-dlp
   binname: yt-dlp
   visiblename: www/yt-dlp
   version: 2026.10.21
   origversion: null
-  status: newest
+  status: outdated
   summary: CLI program to download videos from YouTube and other sites
   maintainers:
     - ports@openbsd.org
@@ -1040,6 +1052,22 @@
   visiblename: python-yt_dlp
   version: 2026.10.21
   origversion: 2026.10.21-1mamba
+  status: legacy
+  summary: A feature-rich command-line audio/video downloader
+  maintainers:
+    - silvan@openmamba.org
+  licenses:
+    - Unlicense
+  categories:
+    - System/Libraries
+- repo: openmamba
+  subrepo: devel-makedist
+  srcname: python-yt_dlp
+  binnames:
+    - python-yt_dlp
+  visiblename: python-yt_dlp
+  version: 2026.10.26
+  origversion: 2026.10.26-1mamba
   status: newest
   summary: A feature-rich command-line audio/video downloader
   maintainers:
@@ -1067,6 +1095,12 @@
     - Unlicense
   categories:
     - Productivity/Video/Networking/Web/Utilities
+- repo: pld
+  srcname: yt-dlp
+  visiblename: yt-dlp
+  version: 2026.08.19
+  origversion: 2026.08.19-1
+  status: outdated
 - repo: openmandriva_cooker
   subrepo: main/release
   srcname: yt-dlp
@@ -1078,7 +1112,7 @@
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: 2026.10.21-1
-  status: newest
+  status: outdated
   summary: A tool for downloading from video sites for offline watching
   maintainers:
     - angrypenguinpoland@gmail.com
@@ -1094,12 +1128,12 @@
     - python313-yt-dlp
     - yt-dlp-youtube-dl
   visiblename: yt-dlp
-  version: 2026.08.19
-  origversion: 2026.08.19-1.1
+  version: 2026.10.21
+  origversion: 2026.10.21-1.1
   status: outdated
   summary: Enhanced fork of youtube-dl, a video site downloader for offline watching
   licenses:
-    - CC-BY-SA-3.0 AND SUSE-Public-Domain
+    - CC-BY-SA-3.0 AND LicenseRef-SUSE-Public-Domain
   categories:
     - Productivity/Networking/Web/Utilities
 - repo: packman_sle_15
@@ -1107,7 +1141,7 @@
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: 2026.10.21-150700.3.pm.1
-  status: newest
+  status: outdated
   summary: Enhanced fork of youtube-dl, a video site downloader for offline watching
   maintainers:
     - packman@links2linux.de
@@ -1132,7 +1166,7 @@
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: 2026.10.21-1
-  status: newest
+  status: outdated
   summary: A youtube-dl fork with additional features and fixes
   licenses:
     - Unlicense
@@ -1141,7 +1175,7 @@
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: 2026.10.21-1pclos2026
-  status: newest
+  status: outdated
   summary: Small command-line program to download videos from YouTube
   categories:
     - Video
@@ -1149,7 +1183,7 @@
   subrepo: main
   srcname: programming/language/python3/yt-dlp
   visiblename: yt-dlp
-  version: 2026.07.04
+  version: 2026.08.19
   origversion: null
   status: outdated
   summary: A youtube-dl fork with additional features and fixes
@@ -1171,29 +1205,11 @@
     - leot@netbsd.org
   categories:
     - net
-- repo: pkgsrc_current
-  srcname: net/yt-dlp
-  binname: yt-dlp
-  visiblename: net/yt-dlp
-  version: 2026.10.21
-  origversion: null
-  status: newest
-  summary: Youtube-dl fork with new features and patches
-  maintainers:
-    - leot@netbsd.org
-  categories:
-    - net
-- repo: pld
-  srcname: yt-dlp
-  visiblename: yt-dlp
-  version: 2026.08.19
-  origversion: 2026.08.19-1
-  status: outdated
 - repo: pypi
   srcname: yt-dlp
   binname: yt-dlp
   visiblename: yt-dlp
-  version: 2026.10.21
+  version: 2026.10.26
   origversion: null
   status: newest
   summary: A feature-rich command-line audio/video downloader
@@ -1201,23 +1217,7 @@
   srcname: yt-dlp
   binname: yt-dlp
   visiblename: yt-dlp
-  version: 2026.10.21.202512.dev0
-  origversion: null
-  status: legacy
-  summary: A feature-rich command-line audio/video downloader
-- repo: pypi
-  srcname: yt-dlp
-  binname: yt-dlp
-  visiblename: yt-dlp
-  version: 2026.10.21.233146.dev0
-  origversion: null
-  status: legacy
-  summary: A feature-rich command-line audio/video downloader
-- repo: pypi
-  srcname: yt-dlp
-  binname: yt-dlp
-  visiblename: yt-dlp
-  version: 2026.10.23.233055.dev0
+  version: 2026.10.26.220202.dev0
   origversion: null
   status: devel
   summary: A feature-rich command-line audio/video downloader
@@ -1229,7 +1229,7 @@
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: 2026.10.21-1
-  status: newest
+  status: outdated
   maintainers:
     - unit193@debian.org
   categories:
@@ -1238,7 +1238,7 @@
   subrepo: main
   binname: yt-dlp
   visiblename: yt-dlp
-  version: 2026.10.21
+  version: 2026.10.26
   origversion: null
   status: newest
   licenses:
@@ -1249,7 +1249,7 @@
   visiblename: yt-dlp-nightly
   version: 2026.10.23.233055
   origversion: null
-  status: ignored
+  status: outdated
   licenses:
     - Freeware
 - repo: slackbuilds
@@ -1257,7 +1257,7 @@
   visiblename: network/yt-dlp-bin
   version: 2026.10.21
   origversion: null
-  status: newest
+  status: outdated
   maintainers:
     - urchlay@slackware.uk
   categories:
@@ -1266,7 +1266,7 @@
   srcname: yt-dlp
   binname: yt-dlp
   visiblename: yt-dlp
-  version: 2026.10.21
+  version: 2026.10.26
   origversion: null
   status: newest
   summary: yt-dlp is a small command-line program for downloading videos from YouTube and other platforms
@@ -1282,7 +1282,7 @@
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: 2026.10.21-1
-  status: newest
+  status: outdated
   summary: youtube-dl fork with additional features and fixes
   maintainers:
     - starkos@disroot.org
@@ -1291,7 +1291,7 @@
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: null
-  status: newest
+  status: outdated
   summary: Cli program to dowload videos from youtube.com and other sites
   maintainers:
     - notag@t2sde.org
@@ -1305,7 +1305,7 @@
   visiblename: python-yt-dlp
   version: 2026.10.21
   origversion: null
-  status: newest
+  status: outdated
   summary: A youtube-dl fork with additional features and fixes
   maintainers:
     - tom@termux.dev
@@ -1554,9 +1554,9 @@
   srcname: yt-dlp
   binname: python3-youtube-dl
   visiblename: python3-youtube-dl
-  version: 2026.08.19
-  origversion: 2026.08.19_1
-  status: outdated
+  version: 2026.10.26
+  origversion: 2026.10.26_1
+  status: newest
   summary: CLI program to download videos from YouTube and other sites (transitional dummy package)
   maintainers:
     - void@placeviolette.net
@@ -1567,9 +1567,9 @@
   srcname: yt-dlp
   binname: youtube-dl
   visiblename: youtube-dl
-  version: 2026.08.19
-  origversion: 2026.08.19_1
-  status: outdated
+  version: 2026.10.26
+  origversion: 2026.10.26_1
+  status: newest
   summary: CLI program to download videos from YouTube and other sites (transitional compatibility package)
   maintainers:
     - void@placeviolette.net
@@ -1580,9 +1580,9 @@
   srcname: yt-dlp
   binname: yt-dlp
   visiblename: yt-dlp
-  version: 2026.08.19
-  origversion: 2026.08.19_1
-  status: outdated
+  version: 2026.10.26
+  origversion: 2026.10.26_1
+  status: newest
   summary: CLI program to download videos from YouTube and other sites
   maintainers:
     - void@placeviolette.net
@@ -1594,7 +1594,7 @@
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: 2026.10.21-1
-  status: newest
+  status: outdated
   summary: youtube-dl fork with additional features and fixes
   maintainers:
     - wonkru-dev@proton.me
@@ -1603,7 +1603,7 @@
   visiblename: yt-dlp
   version: 2026.10.21
   origversion: null
-  status: newest
+  status: outdated
   summary: command-line program to download videos or audio from YouTube and other video sites
   licenses:
     - Unlicense
@@ -1789,6 +1789,19 @@
   licenses:
     - Unlicense
   vulnerable: true
+- repo: nix_stable_25_11
+  srcname: yt-dlp
+  visiblename: yt-dlp
+  version: 2026.06.09
+  origversion: null
+  status: outdated
+  summary: Feature-rich command-line audio/video downloader
+  maintainers:
+    - sandro.jaeckel@gmail.com
+    - flameflag@github
+  licenses:
+    - Unlicense
+  vulnerable: true
 - repo: alpine_3_19
   subrepo: community
   srcname: yt-dlp
@@ -1872,20 +1885,6 @@
     - lauren@selfisekai.rocks
   licenses:
     - Unlicense
-  vulnerable: true
-- repo: deepin_25
-  subrepo: community
-  srcname: yt-dlp
-  binnames:
-    - yt-dlp
-  visiblename: yt-dlp
-  version: 2025.04.30
-  origversion: 2025.04.30-1
-  status: outdated
-  maintainers:
-    - unit193@debian.org
-  categories:
-    - web
   vulnerable: true
 - repo: alpine_3_20
   subrepo: community
@@ -2334,18 +2333,19 @@
   categories:
     - misc
   vulnerable: true
-- repo: nix_stable_25_05
+- repo: deepin_25
+  subrepo: community
   srcname: yt-dlp
+  binnames:
+    - yt-dlp
   visiblename: yt-dlp
-  version: 2025.11.12
-  origversion: null
+  version: 2025.04.30
+  origversion: 2025.04.30-1
   status: outdated
-  summary: Feature-rich command-line audio/video downloader
   maintainers:
-    - sandro.jaeckel@gmail.com
-    - flameflag@github
-  licenses:
-    - Unlicense
+    - unit193@debian.org
+  categories:
+    - web
   vulnerable: true
 - repo: fedora_39
   subrepo: release
@@ -2422,24 +2422,6 @@
     - Unspecified
   vulnerable: true
 - repo: fedora_41
-  subrepo: release
-  srcname: yt-dlp
-  binnames:
-    - yt-dlp
-    - yt-dlp-bash-completion
-    - yt-dlp-zsh-completion
-    - yt-dlp-fish-completion
-  visiblename: yt-dlp
-  version: 2024.09.27
-  origversion: 2024.09.27-1.fc41
-  status: legacy
-  summary: A command-line program to download videos from online video platforms
-  licenses:
-    - Unlicense
-  categories:
-    - Unspecified
-  vulnerable: true
-- repo: fedora_41
   subrepo: updates
   srcname: yt-dlp
   binnames:
@@ -2453,6 +2435,24 @@
   version: 2025.06.30
   origversion: 2025.06.30-1.fc41
   status: outdated
+  summary: A command-line program to download videos from online video platforms
+  licenses:
+    - Unlicense
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: fedora_41
+  subrepo: release
+  srcname: yt-dlp
+  binnames:
+    - yt-dlp
+    - yt-dlp-bash-completion
+    - yt-dlp-zsh-completion
+    - yt-dlp-fish-completion
+  visiblename: yt-dlp
+  version: 2024.09.27
+  origversion: 2024.09.27-1.fc41
+  status: legacy
   summary: A command-line program to download videos from online video platforms
   licenses:
     - Unlicense
@@ -2533,6 +2533,19 @@
   categories:
     - Unspecified
   vulnerable: true
+- repo: nix_stable_24_05
+  srcname: yt-dlp
+  visiblename: yt-dlp
+  version: 2024.12.6
+  origversion: null
+  status: outdated
+  summary: Command-line tool to download videos from YouTube.com and other sites (youtube-dl fork)
+  maintainers:
+    - mkg20001+nix@gmail.com
+    - sandro.jaeckel@gmail.com
+  licenses:
+    - Unlicense
+  vulnerable: true
 - repo: liguros_stable
   srcname: net-misc/yt-dlp
   visiblename: net-misc/yt-dlp
@@ -2560,6 +2573,20 @@
     - Unlicense
   categories:
     - net-misc
+  vulnerable: true
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: yt-dlp
+  binnames:
+    - yt-dlp
+  visiblename: yt-dlp
+  version: 2025.04.30
+  origversion: 2025.04.30-1
+  status: outdated
+  maintainers:
+    - unit193@debian.org
+  categories:
+    - web
   vulnerable: true
 - repo: mageia_9
   subrepo: core/release
@@ -2650,6 +2677,21 @@
     - Unlicense
   categories:
     - Video/Players
+  vulnerable: true
+- repo: nix_stable_24_05
+  srcname: python311Packages.yt-dlp-light
+  visiblename: python3.11-yt-dlp
+  version: 2024.12.6
+  origversion: null
+  status: outdated
+  summary: Command-line tool to download videos from YouTube.com and other sites (youtube-dl fork)
+  maintainers:
+    - mkg20001+nix@gmail.com
+    - sandro.jaeckel@gmail.com
+  licenses:
+    - Unlicense
+  categories:
+    - python311Packages
   vulnerable: true
 - repo: mageia_9
   subrepo: core/updates
@@ -2842,36 +2884,6 @@
     - web
   vulnerable: true
 - repo: nix_stable_24_05
-  srcname: python311Packages.yt-dlp
-  visiblename: python3.11-yt-dlp
-  version: 2024.12.6
-  origversion: null
-  status: outdated
-  summary: Command-line tool to download videos from YouTube.com and other sites (youtube-dl fork)
-  maintainers:
-    - mkg20001+nix@gmail.com
-    - sandro.jaeckel@gmail.com
-  licenses:
-    - Unlicense
-  categories:
-    - python311Packages
-  vulnerable: true
-- repo: nix_stable_24_05
-  srcname: python311Packages.yt-dlp-light
-  visiblename: python3.11-yt-dlp
-  version: 2024.12.6
-  origversion: null
-  status: outdated
-  summary: Command-line tool to download videos from YouTube.com and other sites (youtube-dl fork)
-  maintainers:
-    - mkg20001+nix@gmail.com
-    - sandro.jaeckel@gmail.com
-  licenses:
-    - Unlicense
-  categories:
-    - python311Packages
-  vulnerable: true
-- repo: nix_stable_24_05
   srcname: python312Packages.yt-dlp
   visiblename: python3.12-yt-dlp
   version: 2024.12.6
@@ -2902,8 +2914,8 @@
     - python312Packages
   vulnerable: true
 - repo: nix_stable_24_05
-  srcname: yt-dlp
-  visiblename: yt-dlp
+  srcname: python311Packages.yt-dlp
+  visiblename: python3.11-yt-dlp
   version: 2024.12.6
   origversion: null
   status: outdated
@@ -2913,6 +2925,8 @@
     - sandro.jaeckel@gmail.com
   licenses:
     - Unlicense
+  categories:
+    - python311Packages
   vulnerable: true
 - repo: nix_stable_24_05
   srcname: yt-dlp-light
@@ -2954,6 +2968,19 @@
     - Unlicense
   vulnerable: true
 - repo: nix_stable_25_05
+  srcname: yt-dlp
+  visiblename: yt-dlp
+  version: 2025.11.12
+  origversion: null
+  status: outdated
+  summary: Feature-rich command-line audio/video downloader
+  maintainers:
+    - sandro.jaeckel@gmail.com
+    - flameflag@github
+  licenses:
+    - Unlicense
+  vulnerable: true
+- repo: nix_stable_25_05
   srcname: yt-dlp-light
   visiblename: yt-dlp
   version: 2025.11.12
@@ -2967,19 +2994,6 @@
     - Unlicense
   vulnerable: true
 - repo: nix_stable_25_11
-  srcname: yt-dlp
-  visiblename: yt-dlp
-  version: 2026.06.09
-  origversion: null
-  status: outdated
-  summary: Feature-rich command-line audio/video downloader
-  maintainers:
-    - sandro.jaeckel@gmail.com
-    - flameflag@github
-  licenses:
-    - Unlicense
-  vulnerable: true
-- repo: nix_stable_25_11
   srcname: yt-dlp-light
   visiblename: yt-dlp
   version: 2026.06.09
@@ -2991,6 +3005,19 @@
     - flameflag@github
   licenses:
     - Unlicense
+  vulnerable: true
+- repo: terra_40
+  srcname: yt-dlp-git
+  binname: yt-dlp-git-fish-completion
+  visiblename: yt-dlp-git-fish-completion
+  version: 2025.06.12.232741
+  origversion: 2025.06.12.232741-1.fc40
+  status: outdated
+  summary: Fish completion for yt-dlp-git
+  licenses:
+    - Unlicense
+  categories:
+    - Unspecified
   vulnerable: true
 - repo: openindiana
   subrepo: hipster
@@ -3195,20 +3222,6 @@
   categories:
     - net
   vulnerable: true
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: yt-dlp
-  binnames:
-    - yt-dlp
-  visiblename: yt-dlp
-  version: 2025.04.30
-  origversion: 2025.04.30-1
-  status: outdated
-  maintainers:
-    - unit193@debian.org
-  categories:
-    - web
-  vulnerable: true
 - repo: raspbian_oldstable
   subrepo: main
   srcname: yt-dlp
@@ -3368,19 +3381,6 @@
   origversion: 2025.06.12.232741-1.fc40
   status: outdated
   summary: Bash completion for yt-dlp
-  licenses:
-    - Unlicense
-  categories:
-    - Unspecified
-  vulnerable: true
-- repo: terra_40
-  srcname: yt-dlp-git
-  binname: yt-dlp-git-fish-completion
-  visiblename: yt-dlp-git-fish-completion
-  version: 2025.06.12.232741
-  origversion: 2025.06.12.232741-1.fc40
-  status: outdated
-  summary: Fish completion for yt-dlp-git
   licenses:
     - Unlicense
   categories:
