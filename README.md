@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 202,678 · **Forks**: 17,753 · **Open issues**: 12,207 · **Contributors**: 1,534
+- **Stars**: 203,098 · **Forks**: 17,811 · **Open issues**: 12,211 · **Contributors**: 1,534
 
 ## Totals (cumulative)
 
-- **Releases**: 138 · **Merged PRs**: 3469 · **Open PRs**: 682 · **Closed issues**: 10155 · **Open issues**: 2052 · **Commits**: 24032
+- **Releases**: 138 · **Merged PRs**: 3469 · **Open PRs**: 682 · **Closed issues**: 10157 · **Open issues**: 2054 · **Commits**: 24032
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 2 | 15 | 61 | 54 | 45 | 33 |
-| last60d | 2026-08-28 | 2 | 32 | 83 | 137 | 95 | 46 |
-| 90d | 2026-07-29 | 3 | 69 | 98 | 257 | 133 | 105 |
-| last180d | 2026-04-30 | 5 | 176 | 186 | 552 | 260 | 243 |
-| 360d | 2025-11-01 | 14 | 435 | 319 | 1428 | 508 | 523 |
-| last720d | 2024-11-06 | 43 | 1090 | 495 | 3310 | 920 | 1199 |
+| 30d | 2026-09-28 | 2 | 14 | 61 | 54 | 47 | 33 |
+| last60d | 2026-08-29 | 2 | 30 | 83 | 134 | 98 | 46 |
+| 90d | 2026-07-30 | 3 | 69 | 97 | 256 | 136 | 105 |
+| last180d | 2026-05-01 | 5 | 176 | 186 | 548 | 263 | 243 |
+| 360d | 2025-11-02 | 14 | 435 | 319 | 1421 | 511 | 523 |
+| last720d | 2024-11-07 | 43 | 1090 | 495 | 3310 | 923 | 1197 |
 
 ## Release assets
 
@@ -96,7 +96,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **272** distros on [repology.org](https://repology.org/project/yt-dlp). **9** are ✅ on the latest upstream release, **218** are ⚠️ on an older version.
+Reported by **272** distros on [repology.org](https://repology.org/project/yt-dlp). **27** are ✅ on the latest upstream release, **200** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -105,7 +105,7 @@ Reported by **272** distros on [repology.org](https://repology.org/project/yt-dl
 | Debian 13 | `2025.04.30` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2026.03.17` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2024.04.09` | ⚠️ outdated |
-| Arch | `2026.10.21` | ⚠️ outdated |
+| Arch | `2026.10.26` | ✅ latest |
 | Homebrew | `2026.10.21` | ⚠️ outdated |
 | Fedora rawhide | `2026.10.21` | ⚠️ outdated |
 | Nix unstable | `2026.10.21` | ⚠️ outdated |
@@ -122,4 +122,4 @@ Install metadata for yt-dlp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T04:48:03Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:22:18Z._
