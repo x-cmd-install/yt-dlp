@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2026.10.26` (2026-10-26)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-29
 - **Assets in release**: 24
 
 ## Popularity
 
-- **Stars**: 203,498 · **Forks**: 17,850 · **Open issues**: 12,215 · **Contributors**: 1,534
+- **Stars**: 203,767 · **Forks**: 17,885 · **Open issues**: 12,218 · **Contributors**: 1,535
 
 ## Totals (cumulative)
 
-- **Releases**: 138 · **Merged PRs**: 3469 · **Open PRs**: 684 · **Closed issues**: 10160 · **Open issues**: 2055 · **Commits**: 24032
+- **Releases**: 138 · **Merged PRs**: 3472 · **Open PRs**: 683 · **Closed issues**: 10162 · **Open issues**: 2056 · **Commits**: 24035
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 2 | 14 | 63 | 55 | 47 | 33 |
-| last60d | 2026-08-30 | 2 | 29 | 82 | 131 | 95 | 46 |
-| 90d | 2026-07-31 | 3 | 69 | 99 | 257 | 136 | 105 |
-| last180d | 2026-05-02 | 5 | 176 | 186 | 548 | 262 | 243 |
-| 360d | 2025-11-03 | 14 | 432 | 320 | 1413 | 510 | 523 |
-| last720d | 2024-11-08 | 43 | 1088 | 497 | 3308 | 924 | 1197 |
+| 30d | 2026-09-30 | 2 | 17 | 62 | 56 | 48 | 36 |
+| last60d | 2026-08-31 | 2 | 32 | 81 | 126 | 96 | 49 |
+| 90d | 2026-08-01 | 3 | 72 | 98 | 256 | 137 | 108 |
+| last180d | 2026-05-03 | 5 | 178 | 184 | 545 | 261 | 246 |
+| 360d | 2025-11-04 | 14 | 433 | 319 | 1402 | 511 | 526 |
+| last720d | 2024-11-09 | 43 | 1089 | 495 | 3308 | 922 | 1200 |
 
 ## Release assets
 
@@ -96,7 +96,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **272** distros on [repology.org](https://repology.org/project/yt-dlp). **31** are ✅ on the latest upstream release, **196** are ⚠️ on an older version.
+Reported by **272** distros on [repology.org](https://repology.org/project/yt-dlp). **34** are ✅ on the latest upstream release, **193** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -122,4 +122,4 @@ Install metadata for yt-dlp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:32:00Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:32:19Z._
