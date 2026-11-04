@@ -14,13 +14,13 @@ x install yt-dlp
 
 ## Code insight
 
-Total: **218,502** lines of code across **1132** files in the top 5 languages.
+Total: **218,495** lines of code across **1132** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Python | 216,580 | 5,588 | 24,936 | 1124 |
 | Json | 572 | 0 | 0 | 3 |
-| Toml | 459 | 0 | 30 | 1 |
+| Toml | 452 | 0 | 30 | 1 |
 | JavaScript | 374 | 12 | 0 | 3 |
 | Makefile | 200 | 6 | 34 | 1 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2026.10.26` (2026-10-26)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-11-04
 - **Assets in release**: 24
 
 ## Popularity
 
-- **Stars**: 204,837 · **Forks**: 17,993 · **Open issues**: 12,238 · **Contributors**: 1,535
+- **Stars**: 205,054 · **Forks**: 18,012 · **Open issues**: 12,242 · **Contributors**: 1,535
 
 ## Totals (cumulative)
 
-- **Releases**: 138 · **Merged PRs**: 3472 · **Open PRs**: 690 · **Closed issues**: 10175 · **Open issues**: 2063 · **Commits**: 24035
+- **Releases**: 138 · **Merged PRs**: 3473 · **Open PRs**: 693 · **Closed issues**: 10175 · **Open issues**: 2067 · **Commits**: 24036
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 2 | 17 | 63 | 59 | 49 | 36 |
-| last60d | 2026-09-04 | 2 | 32 | 87 | 123 | 93 | 49 |
-| 90d | 2026-08-05 | 3 | 66 | 104 | 250 | 141 | 105 |
-| last180d | 2026-05-07 | 5 | 178 | 187 | 546 | 258 | 244 |
-| 360d | 2025-11-08 | 14 | 420 | 326 | 1392 | 513 | 492 |
-| last720d | 2024-11-13 | 43 | 1080 | 498 | 3295 | 925 | 1187 |
+| 30d | 2026-10-05 | 2 | 18 | 65 | 55 | 52 | 37 |
+| last60d | 2026-09-05 | 2 | 33 | 87 | 121 | 95 | 50 |
+| 90d | 2026-08-06 | 3 | 66 | 106 | 245 | 144 | 106 |
+| last180d | 2026-05-08 | 5 | 178 | 190 | 543 | 260 | 245 |
+| 360d | 2025-11-09 | 14 | 416 | 329 | 1385 | 514 | 493 |
+| last720d | 2024-11-14 | 43 | 1077 | 501 | 3286 | 929 | 1188 |
 
 ## Release assets
 
@@ -122,4 +122,4 @@ Install metadata for yt-dlp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:27:26Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T05:59:26Z._
