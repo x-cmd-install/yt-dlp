@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 205,599 · **Forks**: 18,052 · **Open issues**: 12,251 · **Contributors**: 1,535
+- **Stars**: 205,832 · **Forks**: 18,083 · **Open issues**: 12,257 · **Contributors**: 1,535
 
 ## Totals (cumulative)
 
-- **Releases**: 138 · **Merged PRs**: 3474 · **Open PRs**: 696 · **Closed issues**: 10181 · **Open issues**: 2070 · **Commits**: 24037
+- **Releases**: 138 · **Merged PRs**: 3474 · **Open PRs**: 696 · **Closed issues**: 10183 · **Open issues**: 2074 · **Commits**: 24037
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 2 | 19 | 67 | 55 | 54 | 38 |
-| last60d | 2026-09-07 | 2 | 34 | 85 | 120 | 93 | 51 |
-| 90d | 2026-08-08 | 3 | 66 | 109 | 244 | 144 | 107 |
-| last180d | 2026-05-10 | 5 | 176 | 188 | 540 | 261 | 246 |
-| 360d | 2025-11-11 | 14 | 412 | 330 | 1368 | 515 | 494 |
-| last720d | 2024-11-16 | 43 | 1074 | 503 | 3284 | 927 | 1185 |
+| 30d | 2026-10-08 | 2 | 19 | 66 | 57 | 57 | 38 |
+| last60d | 2026-09-08 | 2 | 34 | 85 | 119 | 93 | 51 |
+| 90d | 2026-08-09 | 3 | 65 | 109 | 243 | 147 | 107 |
+| last180d | 2026-05-11 | 5 | 174 | 188 | 535 | 265 | 246 |
+| 360d | 2025-11-12 | 14 | 406 | 329 | 1360 | 517 | 494 |
+| last720d | 2024-11-17 | 43 | 1069 | 503 | 3284 | 931 | 1176 |
 
 ## Release assets
 
@@ -96,7 +96,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **271** distros on [repology.org](https://repology.org/project/yt-dlp). **64** are ✅ on the latest upstream release, **162** are ⚠️ on an older version.
+Reported by **272** distros on [repology.org](https://repology.org/project/yt-dlp). **72** are ✅ on the latest upstream release, **155** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -122,4 +122,4 @@ Install metadata for yt-dlp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:19:00Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:44:32Z._
