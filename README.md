@@ -26,7 +26,7 @@ Total: **218,495** lines of code across **1132** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **8 / 10**
+Overall score: **7.7 / 10**
 
 Lowest-scoring checks:
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 206,556 · **Forks**: 18,163 · **Open issues**: 12,268 · **Contributors**: 1,535
+- **Stars**: 206,772 · **Forks**: 18,191 · **Open issues**: 12,269 · **Contributors**: 1,535
 
 ## Totals (cumulative)
 
-- **Releases**: 138 · **Merged PRs**: 3474 · **Open PRs**: 698 · **Closed issues**: 10189 · **Open issues**: 2079 · **Commits**: 24037
+- **Releases**: 138 · **Merged PRs**: 3474 · **Open PRs**: 698 · **Closed issues**: 10190 · **Open issues**: 2079 · **Commits**: 24037
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 2 | 18 | 62 | 58 | 60 | 36 |
-| last60d | 2026-09-11 | 2 | 34 | 84 | 114 | 94 | 51 |
-| 90d | 2026-08-12 | 3 | 63 | 110 | 232 | 150 | 94 |
-| last180d | 2026-05-14 | 5 | 174 | 185 | 532 | 265 | 243 |
-| 360d | 2025-11-15 | 13 | 397 | 326 | 1354 | 516 | 477 |
-| last720d | 2024-11-20 | 42 | 1063 | 503 | 3275 | 934 | 1163 |
+| 30d | 2026-10-12 | 2 | 18 | 60 | 59 | 59 | 36 |
+| last60d | 2026-09-12 | 2 | 34 | 83 | 115 | 91 | 51 |
+| 90d | 2026-08-13 | 3 | 63 | 110 | 231 | 148 | 94 |
+| last180d | 2026-05-15 | 5 | 174 | 184 | 529 | 265 | 243 |
+| 360d | 2025-11-16 | 13 | 396 | 326 | 1352 | 513 | 477 |
+| last720d | 2024-11-21 | 42 | 1063 | 503 | 3272 | 933 | 1163 |
 
 ## Release assets
 
@@ -96,7 +96,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **273** distros on [repology.org](https://repology.org/project/yt-dlp). **74** are ✅ on the latest upstream release, **153** are ⚠️ on an older version.
+Reported by **273** distros on [repology.org](https://repology.org/project/yt-dlp). **75** are ✅ on the latest upstream release, **152** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -122,4 +122,4 @@ Install metadata for yt-dlp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:01:56Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T05:53:48Z._
