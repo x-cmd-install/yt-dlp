@@ -14,15 +14,15 @@ x install yt-dlp
 
 ## Code insight
 
-Total: **218,537** lines of code across **1132** files in the top 5 languages.
+Total: **218,598** lines of code across **1132** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 216,622 | 5,595 | 24,936 | 1124 |
+| Python | 216,684 | 5,600 | 24,938 | 1124 |
 | Json | 572 | 0 | 0 | 3 |
 | Toml | 452 | 0 | 30 | 1 |
 | JavaScript | 374 | 12 | 0 | 3 |
-| Makefile | 200 | 6 | 34 | 1 |
+| Makefile | 199 | 6 | 34 | 1 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2026.10.26` (2026-10-26)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-19
 - **Assets in release**: 24
 
 ## Popularity
 
-- **Stars**: 209,025 · **Forks**: 18,444 · **Open issues**: 12,305 · **Contributors**: 1,535
+- **Stars**: 209,259 · **Forks**: 18,488 · **Open issues**: 12,308 · **Contributors**: 1,537
 
 ## Totals (cumulative)
 
-- **Releases**: 138 · **Merged PRs**: 3485 · **Open PRs**: 702 · **Closed issues**: 10212 · **Open issues**: 2093 · **Commits**: 24048
+- **Releases**: 138 · **Merged PRs**: 3490 · **Open PRs**: 701 · **Closed issues**: 10216 · **Open issues**: 2092 · **Commits**: 24053
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 2 | 29 | 34 | 68 | 65 | 30 |
-| last60d | 2026-09-20 | 2 | 43 | 83 | 124 | 99 | 63 |
-| 90d | 2026-08-21 | 2 | 53 | 111 | 218 | 149 | 82 |
-| last180d | 2026-05-23 | 5 | 176 | 182 | 524 | 270 | 251 |
-| 360d | 2025-11-24 | 13 | 396 | 326 | 1341 | 512 | 482 |
-| last720d | 2024-11-29 | 42 | 1057 | 507 | 3247 | 939 | 1163 |
+| 30d | 2026-10-21 | 2 | 27 | 32 | 69 | 61 | 36 |
+| last60d | 2026-09-21 | 2 | 47 | 82 | 125 | 98 | 69 |
+| 90d | 2026-08-22 | 2 | 58 | 106 | 220 | 146 | 88 |
+| last180d | 2026-05-24 | 5 | 180 | 178 | 526 | 268 | 257 |
+| 360d | 2025-11-25 | 13 | 401 | 324 | 1341 | 510 | 488 |
+| last720d | 2024-11-30 | 42 | 1062 | 506 | 3249 | 937 | 1168 |
 
 ## Release assets
 
@@ -96,7 +96,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **267** distros on [repology.org](https://repology.org/project/yt-dlp). **79** are ✅ on the latest upstream release, **148** are ⚠️ on an older version.
+Reported by **268** distros on [repology.org](https://repology.org/project/yt-dlp). **79** are ✅ on the latest upstream release, **149** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -122,4 +122,4 @@ Install metadata for yt-dlp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:07:22Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T06:59:10Z._
