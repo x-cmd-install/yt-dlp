@@ -14,11 +14,11 @@ x install yt-dlp
 
 ## Code insight
 
-Total: **218,511** lines of code across **1131** files in the top 5 languages.
+Total: **218,512** lines of code across **1131** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 216,597 | 5,606 | 24,905 | 1123 |
+| Python | 216,598 | 5,618 | 24,906 | 1123 |
 | Json | 572 | 0 | 0 | 3 |
 | Toml | 452 | 0 | 30 | 1 |
 | JavaScript | 374 | 12 | 0 | 3 |
@@ -42,76 +42,76 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `2026.10.26` (2026-10-26)
-- **Last commit**: 2026-11-22
+- **Latest**: `2026.11.23` (2026-11-23)
+- **Last commit**: 2026-11-23
 - **Assets in release**: 24
 
 ## Popularity
 
-- **Stars**: 210,064 · **Forks**: 18,575 · **Open issues**: 12,317 · **Contributors**: 1,538
+- **Stars**: 210,315 · **Forks**: 18,613 · **Open issues**: 12,324 · **Contributors**: 1,537
 
 ## Totals (cumulative)
 
-- **Releases**: 138 · **Merged PRs**: 3499 · **Open PRs**: 700 · **Closed issues**: 10231 · **Open issues**: 2086 · **Commits**: 24062
+- **Releases**: 139 · **Merged PRs**: 3505 · **Open PRs**: 701 · **Closed issues**: 10238 · **Open issues**: 2086 · **Commits**: 24069
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 31 | 35 | 79 | 51 | 30 |
-| last60d | 2026-09-24 | 2 | 47 | 86 | 136 | 88 | 66 |
-| 90d | 2026-08-25 | 2 | 65 | 109 | 223 | 138 | 79 |
-| last180d | 2026-05-27 | 5 | 186 | 181 | 532 | 257 | 263 |
-| 360d | 2025-11-28 | 13 | 408 | 322 | 1341 | 498 | 490 |
-| last720d | 2024-12-03 | 42 | 1062 | 506 | 3241 | 928 | 1170 |
+| 30d | 2026-10-25 | 2 | 37 | 36 | 82 | 49 | 37 |
+| last60d | 2026-09-25 | 3 | 52 | 87 | 137 | 86 | 73 |
+| 90d | 2026-08-26 | 3 | 69 | 110 | 225 | 136 | 86 |
+| last180d | 2026-05-28 | 6 | 190 | 180 | 533 | 258 | 270 |
+| 360d | 2025-11-29 | 14 | 411 | 323 | 1344 | 499 | 497 |
+| last720d | 2024-12-04 | 42 | 1066 | 505 | 3240 | 927 | 1171 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [SHA2-256SUMS](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/SHA2-256SUMS) | 1.6 KiB | `other` |
-| [SHA2-256SUMS.sig](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/SHA2-256SUMS.sig) | 566 B | `other` |
-| [SHA2-512SUMS](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/SHA2-512SUMS) | 2.7 KiB | `other` |
-| [SHA2-512SUMS.sig](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/SHA2-512SUMS.sig) | 566 B | `other` |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp) | 2.9 MiB | `other` |
-| [yt-dlp.exe](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp.exe) | 22.5 MiB | `other` |
-| [yt-dlp.tar.gz](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp.tar.gz) | 5.7 MiB | `native/unknown` |
-| [yt-dlp_arm64.exe](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp_arm64.exe) | 21.8 MiB | `other` |
-| [yt-dlp_linux](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp_linux) | 39.3 MiB | `other` |
-| [yt-dlp_linux.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp_linux.zip) | 39.3 MiB | `other` |
-| [yt-dlp_linux_aarch64](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp_linux_aarch64) | 38.9 MiB | `native/linux/arm64` |
-| [yt-dlp_linux_aarch64.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp_linux_aarch64.zip) | 38.9 MiB | `native/linux/arm64` |
-| [yt-dlp_linux_armv7l.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp_linux_armv7l.zip) | 37.5 MiB | `native/linux/arm` |
-| [yt-dlp_macos](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp_macos) | 35.7 MiB | `native/darwin/x64` |
-| [yt-dlp_macos.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp_macos.zip) | 51.7 MiB | `native/darwin/x64` |
-| [yt-dlp_musllinux](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp_musllinux) | 39.3 MiB | `other` |
-| [yt-dlp_musllinux.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp_musllinux.zip) | 39.5 MiB | `other` |
-| [yt-dlp_musllinux_aarch64](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp_musllinux_aarch64) | 38.6 MiB | `native/linux/arm64/musl` |
-| [yt-dlp_musllinux_aarch64.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp_musllinux_aarch64.zip) | 38.7 MiB | `native/linux/arm64/musl` |
-| [yt-dlp_win.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp_win.zip) | 22.8 MiB | `other` |
-| [yt-dlp_win_arm64.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp_win_arm64.zip) | 22.1 MiB | `other` |
-| [yt-dlp_win_x86.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp_win_x86.zip) | 17.9 MiB | `other` |
-| [yt-dlp_x86.exe](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp_x86.exe) | 17.8 MiB | `other` |
-| [_update_spec](https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/_update_spec) | 2.7 KiB | `other` |
+| [SHA2-256SUMS](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/SHA2-256SUMS) | 1.6 KiB | `other` |
+| [SHA2-256SUMS.sig](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/SHA2-256SUMS.sig) | 566 B | `other` |
+| [SHA2-512SUMS](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/SHA2-512SUMS) | 2.7 KiB | `other` |
+| [SHA2-512SUMS.sig](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/SHA2-512SUMS.sig) | 566 B | `other` |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/yt-dlp) | 2.9 MiB | `other` |
+| [yt-dlp.exe](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/yt-dlp.exe) | 22.5 MiB | `other` |
+| [yt-dlp.tar.gz](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/yt-dlp.tar.gz) | 5.7 MiB | `native/unknown` |
+| [yt-dlp_arm64.exe](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/yt-dlp_arm64.exe) | 21.8 MiB | `other` |
+| [yt-dlp_linux](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/yt-dlp_linux) | 39.3 MiB | `other` |
+| [yt-dlp_linux.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/yt-dlp_linux.zip) | 39.3 MiB | `other` |
+| [yt-dlp_linux_aarch64](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/yt-dlp_linux_aarch64) | 38.9 MiB | `native/linux/arm64` |
+| [yt-dlp_linux_aarch64.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/yt-dlp_linux_aarch64.zip) | 39.0 MiB | `native/linux/arm64` |
+| [yt-dlp_linux_armv7l.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/yt-dlp_linux_armv7l.zip) | 37.5 MiB | `native/linux/arm` |
+| [yt-dlp_macos](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/yt-dlp_macos) | 35.7 MiB | `native/darwin/x64` |
+| [yt-dlp_macos.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/yt-dlp_macos.zip) | 51.7 MiB | `native/darwin/x64` |
+| [yt-dlp_musllinux](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/yt-dlp_musllinux) | 39.3 MiB | `other` |
+| [yt-dlp_musllinux.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/yt-dlp_musllinux.zip) | 39.5 MiB | `other` |
+| [yt-dlp_musllinux_aarch64](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/yt-dlp_musllinux_aarch64) | 38.7 MiB | `native/linux/arm64/musl` |
+| [yt-dlp_musllinux_aarch64.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/yt-dlp_musllinux_aarch64.zip) | 38.8 MiB | `native/linux/arm64/musl` |
+| [yt-dlp_win.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/yt-dlp_win.zip) | 22.8 MiB | `other` |
+| [yt-dlp_win_arm64.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/yt-dlp_win_arm64.zip) | 22.1 MiB | `other` |
+| [yt-dlp_win_x86.zip](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/yt-dlp_win_x86.zip) | 17.9 MiB | `other` |
+| [yt-dlp_x86.exe](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/yt-dlp_x86.exe) | 17.8 MiB | `other` |
+| [_update_spec](https://github.com/yt-dlp/yt-dlp/releases/download/2026.11.23/_update_spec) | 2.7 KiB | `other` |
 
 ## Distribution status
 
-Reported by **271** distros on [repology.org](https://repology.org/project/yt-dlp). **80** are ✅ on the latest upstream release, **147** are ⚠️ on an older version.
+Reported by **264** distros on [repology.org](https://repology.org/project/yt-dlp). **13** are ✅ on the latest upstream release, **215** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `2026.10.26` | ✅ latest |
-| Debian 14 | `2026.10.26` | ✅ latest |
+| Debian unstable | `2026.11.23` | ✅ latest |
+| Debian 14 | `2026.10.26` | ⚠️ outdated |
 | Debian 13 | `2025.04.30` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2026.03.17` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2024.04.09` | ⚠️ outdated |
-| Arch | `2026.10.26` | ✅ latest |
-| Homebrew | `2026.10.26` | ✅ latest |
+| Arch | `2026.10.26` | ⚠️ outdated |
+| Homebrew | `2026.10.26` | ⚠️ outdated |
 | Fedora rawhide | `2026.10.21` | ⚠️ outdated |
-| Nix unstable | `2026.10.26` | ✅ latest |
-| Void | `2026.10.26` | ✅ latest |
-| Alpine edge | `2026.10.26` | ✅ latest |
-| openSUSE Tumbleweed | `2026.10.26` | ✅ latest |
+| Nix unstable | `2026.10.26` | ⚠️ outdated |
+| Void | `2026.10.26` | ⚠️ outdated |
+| Alpine edge | `2026.10.26` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2026.10.26` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -122,4 +122,4 @@ Install metadata for yt-dlp lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:18:16Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:40:50Z._
